@@ -50,12 +50,12 @@ You can get more help from [http://en.wikipedia.org/wiki/Wikipedia:Create_a_new_
 | {{click | Image = Wikispecies-logo.png | Size = 28px | Link = wikispecies:Main Page }}
 | [[wikispecies:Main Page|Wikispecies]]
 |-
-| {{click | Afbeelding = Wikiquote without text-35px.png | Size = 28px | Link = wikiquote:en:main page }}
+| {{click | Image = Wikiquote without text-35px.png | Size = 28px | Link = wikiquote:en:main page }}
 | [[wikiquote:en:Main page|Wikiquote]]
 | {{click | Image = Wiktionary-logo-en-35px.png | Size = 28px | Link = wikt:en:mian page }}
 | colspan=3 | [[wikt:en:main page|Wiktionary]]
 |}
-| valign=top align=center width="10%" | [[Afbeelding:Community.gif]]
+| valign=top align=center width="10%" | [[Image:Community.gif]]
 | valign=top width="45%" |
 <h3 style="border-bottom: 1px solid #cfcfff; padding: 0.17em 0 0.5em 0;">Other languages</h3>
 <span style="font-size:95%;">
