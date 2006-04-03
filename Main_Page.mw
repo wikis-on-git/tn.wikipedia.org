@@ -33,7 +33,10 @@ width=45
 </inputbox>
 
 You can get more help from [http://en.wikipedia.org/wiki/Wikipedia:Create_a_new_language_in_Wikipedia Create a new language in Wikipedia].
-
+----
+{| class="plainlinks" width="100%" height="100%" border=0 cellspacing=0 cellpadding=6 style="font-size: 95%; border-bottom: 1px solid #cfcfff;" 
+| colspan=3 style="font-size: 1px; padding: 0;"  | &nbsp;
+| valign=top rowspan=10 width="50%" style="padding: 0;" |
 {| align="center" cellpadding="1" width=100% style="background: none; width: 100%; font-size: 95%;"
 |- valign="top"
 | {{click | Image = Wikimedia without text-35px.png | Size = 28px | Link = m:Main page }}
