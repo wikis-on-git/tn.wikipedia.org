@@ -34,4 +34,60 @@ width=45
 
 You can get more help from [http://en.wikipedia.org/wiki/Wikipedia:Create_a_new_language_in_Wikipedia Create a new language in Wikipedia].
 
+{| align="center" cellpadding="1" width=100% style="background: none; width: 100%; font-size: 95%;"
+|- valign="top"
+| {{click | Image = Wikimedia without text-35px.png | Size = 28px | Link = m:Main page }}
+| [[m:Main page|Meta-Wiki]]
+| {{click | Image = Commons-logo-square.png | Size = 28px | Link = commons:main page }}
+| [[commons:main page|Commons]]
+| {{click | Image = Wikinews-logo.png | Size = 28px | Link = wikinews:en:main page }}
+| [[wikinews:en:main page|Wikinews]]
+|-
+| {{click | Image = Wikibooks without text-35px.png | Size = 28px | Link = b:en:main page }} 
+| [[b:en:main page|Wikibooks]]
+| {{click | Image = Wikisource-logo-35px.jpg | Size = 28px | Link = s:en:main page }} 
+| [[s:en:main page|Wikisource]]
+| {{click | Image = Wikispecies-logo.png | Size = 28px | Link = wikispecies:Main Page }}
+| [[wikispecies:Main Page|Wikispecies]]
+|-
+| {{click | Afbeelding = Wikiquote without text-35px.png | Size = 28px | Link = wikiquote:en:main page }}
+| [[wikiquote:en:Main page|Wikiquote]]
+| {{click | Image = Wiktionary-logo-en-35px.png | Size = 28px | Link = wikt:en:mian page }}
+| colspan=3 | [[wikt:en:main page|Wiktionary]]
+|}
+| valign=top align=center width="10%" | [[Afbeelding:Community.gif]]
+| valign=top width="45%" |
+<h3 style="border-bottom: 1px solid #cfcfff; padding: 0.17em 0 0.5em 0;">Andere talen</h3>
+<span style="font-size:95%;">
+<!-- First the editions with >35.000 articles; then just the african languages. Please add those yourself. -->
+
+[[:en:|English&nbsp;(Engels)]] –
+[[:de:|Deutsch&nbsp;(Duits)]] –
+[[:fr:|Français&nbsp;(Frans)]] –
+[[:pl:|Polski&nbsp;(Pools)]] –
+[[:ja:|日本語&nbsp;(Japans)]] –
+[[:sv:|Svenska&nbsp;(Zweeds)]] –
+[[:it:|Italiano&nbsp;(Italiaans)]] –
+[[:pt:|Português&nbsp;(Portugees)]] –
+[[:es:|Español&nbsp;(Spaans)]] –
+[[:ru:|Русский&nbsp;(Russisch)]] –
+[[:zh:|中文&nbsp;(Chinees)]] –
+[[:no:|Norsk&nbsp;(Noors)]] –
+[[:fi:|Suomi&nbsp;(Fins)]] –
+[[:eo:|Esperanto]] –
+[[:da:|Dansk&nbsp;(Deens)]] 
+</span>
+
+<p id="lang-coord" style="text-align:center">
+'''[[m:List of Wikipedias|alle talen]]'''
+</p>
+|}
+
+{| width="100%" border=0 cellpadding=3 style="margin-top: 1em; border: 1px solid #cfcfff; background-color: #f9f9ff; text-align: center;"
+|<small>De inhoud van '''Wikipedia''' valt onder de [[GNU-licentie voor vrije documentatie]], is openbaar en mag onder de licentievoorwaarden vrij worden verspreid.</small>
+
+[[Help:Wikipedia|Public-contact]] - [[Wikipedia:Press|Presscontact]] 
+|}
+
+
 {{MediaWiki:!/InterLang|namespace=|pagename=}}
