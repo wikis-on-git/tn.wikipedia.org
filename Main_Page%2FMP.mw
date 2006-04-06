@@ -2,3 +2,69 @@
 |style="width:56%;color:#000"|
 <center><big><big><big>Welcome to [[Wikipedia]],</big></big></big><br /></center> a community project with the goal to create in every language from a neutral point of view a free encyclopedia on the internet. Wikipedia is free of charge, and can be used to find information even without logging in, but also to add information or to edit. Because of this, Wikipedia can give [[Wikipedia:Disclaimer|no guarantee]] for the correctness of the available information. You can experiment in the [[Wikipedia:Sandbox|Sandbox]]. This Tswana Wikipedia counts [[Special:statistics|{{NUMBEROFARTICLES}}]] articles.
 |}
+
+
+
+{| class="plainlinks" width="100%" height="100%" border=0 cellspacing=0 cellpadding=6 style="font-size: 95%; border-bottom: 1px solid #cfcfff;" 
+| colspan=3 style="font-size: 1px; padding: 0;"  | &nbsp;
+| valign=top rowspan=10 width="50%" style="padding: 0;" |
+<h3 style="border-bottom: 1px solid #cfcfff; padding: 0.17em 0 0.5em 0;">Sisterprojects</h3>
+<span style="font-size:95%;">
+
+{| align="center" cellpadding="1" width=100% style="background: none; width: 100%; font-size: 95%;"
+|- valign="top"
+| {{click | Image = Wikimedia without text-35px.png | Size = 28px | Link = m:Main page }}
+| [[m:Main page|Meta-Wiki]]
+| {{click | Image = Commons-logo-square.png | Size = 28px | Link = commons:main page }}
+| [[commons:main page|Commons]]
+| {{click | Image = Wikinews-logo.png | Size = 28px | Link = wikinews:en:main page }}
+| [[wikinews:en:main page|Wikinews]]
+|-
+| {{click | Image = Wikibooks without text-35px.png | Size = 28px | Link = en:b:main Page }} 
+| [[b:en:main page|Wikibooks]]
+| {{click | Image = Wikisource-logo-35px.jpg | Size = 28px | Link = en:s:main Page }} 
+| [[s:en:main page|Wikisource]]
+| {{click | Image = Wikispecies-logo.png | Size = 28px | Link = wikispecies:Main Page }}
+| [[wikispecies:Main Page|Wikispecies]]
+|-
+| {{click | Image = Wikiquote without text-35px.png | Size = 28px | Link = wikiquote:en:main page }}
+| [[wikiquote:en:Main page|Wikiquote]]
+| {{click | Image = Wiktionary-logo-en-35px.png | Size = 28px | Link = wikt:en:main page }}
+| colspan=3 | [[wikt:en:main page|Wiktionary]]
+|}
+| valign=top align=center width="10%" | [[Image:Community.gif]]
+| valign=top width="45%" |
+<h3 style="border-bottom: 1px solid #cfcfff; padding: 0.17em 0 0.5em 0;">Other languages</h3>
+<span style="font-size:95%;">
+<!-- First the editions with >35.000 articles; then just the african languages. Please add those yourself. Please translate the part between (...) into Tswani. It is now still English. -->
+
+[[:en:|English&nbsp;(Engels)]] –
+[[:de:|Deutsch&nbsp;(German)]] –
+[[:fr:|Français&nbsp;(French)]] –
+[[:pl:|Polski&nbsp;(Polish)]] –
+[[:ja:|日本語&nbsp;(Japanese)]] –
+[[:sv:|Svenska&nbsp;(Swedish)]] –
+[[:it:|Italiano&nbsp;(Italian)]] –
+[[:pt:|Português&nbsp;(Portuguese)]] –
+[[:es:|Español&nbsp;(Spanish)]] –
+[[:ru:|Русский&nbsp;(Russian)]] –
+[[:zh:|中文&nbsp;(Chinese)]] –
+[[:no:|Norsk&nbsp;(Norwegian)]] –
+[[:fi:|Suomi&nbsp;(Finnish)]] –
+[[:eo:|Esperanto]] –
+[[:da:|Dansk&nbsp;(Danish)]] 
+</span>
+
+<p id="lang-coord" style="text-align:center">
+'''[[m:List of Wikipedias|all languages]]'''
+</p>
+|}
+
+{| width="100%" border=0 cellpadding=3 style="margin-top: 1em; border: 1px solid #cfcfff; background-color: #f9f9ff; text-align: center;"
+|<small>The content of '''Wikipedia''' falls under the [[GFDL]]-licence, is public, and may be distributed under the terms stated in the licence. </small>
+
+[[Help:Wikipedia|Public-contact]] - [[Wikipedia:Press|Presscontact]] 
+|}
+
+
+{{MediaWiki:!/InterLang|namespace=|pagename=}}
