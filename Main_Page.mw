@@ -59,23 +59,23 @@ O ka bona thuso gotsweng [http://en.wikipedia.org/wiki/Wikipedia:Create_a_new_la
 
 {| align="center" cellpadding="1" width=100% style="background: none; width: 100%; font-size: 95%;"
 |- valign="top"
-| {{click | Image = Wikimedia without text-35px.png | Size = 28px | Link = m:Main page }}
+| {{click | Image = Wikimedia-logo.svg| Size = 28px | Link = m:Main page }}
 | [[m:Main page|Meta-Wiki]]
 | {{click | Image = Commons-logo-square.png | Size = 28px | Link = commons:main page }}
 | [[commons:main page|Commons]]
 | {{click | Image = Wikinews-logo.png | Size = 28px | Link = wikinews:en:main page }}
 | [[wikinews:en:main page|Wiki ya dikgang]]
 |-
-| {{click | Image = Wikibooks without text-35px.png | Size = 28px | Link = en:b:main Page }} 
+| {{click | Image = Wikibooks-logo.svg | Size = 28px | Link = en:b:main Page }} 
 | [[b:en:main page|Wiki ya dibuka]]
-| {{click | Image = Wikisource-logo-35px.jpg | Size = 28px | Link = en:s:main Page }} 
+| {{click | Image = Wikisource-logo.svg | Size = 28px | Link = en:s:main Page }} 
 | [[s:en:main page|Wikisource]]
-| {{click | Image = Wikispecies-logo.png | Size = 28px | Link = wikispecies:Main Page }}
+| {{click | Image = Wikispecies-logo.svg | Size = 28px | Link = wikispecies:Main Page }}
 | [[wikispecies:Main Page|Wiki ya ditshedi]]
 |-
-| {{click | Image = Wikiquote without text-35px.png | Size = 28px | Link = wikiquote:en:main page }}
+| {{click | Image = Wikiquote-logo.svg | Size = 28px | Link = wikiquote:en:main page }}
 | [[wikiquote:en:Main page|Wikiquote]]
-| {{click | Image = Wiktionary-logo-en-35px.png | Size = 28px | Link = wikt:en:main page }}
+| {{click | Image = Wiktionary-logo-en.png | Size = 28px | Link = wikt:en:main page }}
 | colspan=3 | [[wikt:en:main page|Wiki ya tlhanodi]]
 |}
 | valign=top align=center width="10%" | [[Image:Community.gif]]
