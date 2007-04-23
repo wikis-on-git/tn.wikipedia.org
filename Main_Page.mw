@@ -1,5 +1,5 @@
 __NOEDITSECTION__ __NOTOC__
-{|style="width:100%;margin-top:+.7em;background-color:#eaf5fb;border:1px solid #ccc"
+{|style="width:100%;margin-top: .7em;background-color:#eaf5fb;border:1px solid #ccc"
 |style="width:56%;color:#000"|
 <center><big><big><big>Amogelesega mo [[Wikipedia]],</big></big></big><br /><br /></center> Tirisanyommogo e maikaelelo a yone e leng go leka go encyclopedia ka diteme tsa mafatshe a a farologanyeng, mme ebile e sa sokamela ka letlhakoreng lepe e bile e dirisiwa ke mongwe le mongwe mo interneteng mahala. Wikipedia ga e duelelwe, e bile e ka dirisiwa go batla tlhaloso ya sepe fela kgotsa go tsenya sengwe, le go baakanya tse di setseng di tsentswe. Ka gore mongwe le mongwe o kgone go tsenya se a se batlang, Wikipedia ga e kake ya [[Wikipedia:Disclaimer|tshepisa]] ya gore se o tla se filthelang fa ke boammaaruri jo bo tletseng. O ka lekeletsa ka [[Wikipedia:Sandbox|Sandbox]]. Tswana Wikipedia e, e na le di article di le [[Special:statistics|{{NUMBEROFARTICLES}}]]. Go tsaya malebane go bona gore o ka kwala eng, o ka tlhola [[Dikopo tsa di article|gore batho ba kopile eng]] 
 |}
@@ -53,70 +53,4 @@ A re yeng [[wikipedia:Ko kgotleng|Ko kgotleng]], re buisanyeng, re arabe dipotso
 O ka bona thuso gotsweng [http://en.wikipedia.org/wiki/Wikipedia:Create_a_new_language_in_Wikipedia Go simolola wikipedia ka puo e nngwe].
 ----
 {| class="plainlinks" width="100%" height="100%" border=0 cellspacing=0 cellpadding=6 style="font-size: 95%; border-bottom: 1px solid #cfcfff;" 
-| colspan=3 style="font-size: 1px; padding: 0;"  | &nbsp;
-| valign=top rowspan=10 width="50%" style="padding: 0;" |
-<h3 style="border-bottom: 1px solid #cfcfff; padding: 0.17em 0 0.5em 0;">Sisterprojects</h3>
-<span style="font-size:95%;">
-
-{| align="center" cellpadding="1" width=100% style="background: none; width: 100%; font-size: 95%;"
-|- valign="top"
-| {{click | Image = Wikimedia-logo.svg| Size = 28px | Link = m:Main page }}
-| [[m:Main page|Meta-Wiki]]
-| {{click | Image = Commons-logo-square.png | Size = 28px | Link = commons:main page }}
-| [[commons:main page|Commons]]
-| {{click | Image = Wikinews-logo.png | Size = 28px | Link = wikinews:en:main page }}
-| [[wikinews:en:main page|Wiki ya dikgang]]
-|-
-| {{click | Image = Wikibooks-logo.svg | Size = 28px | Link = en:b:main Page }} 
-| [[b:en:main page|Wiki ya dibuka]]
-| {{click | Image = Wikisource-logo.svg | Size = 28px | Link = en:s:main Page }} 
-| [[s:en:main page|Wikisource]]
-| {{click | Image = Wikispecies-logo.svg | Size = 28px | Link = wikispecies:Main Page }}
-| [[wikispecies:Main Page|Wiki ya ditshedi]]
-|-
-| {{click | Image = Wikiquote-logo.svg | Size = 28px | Link = wikiquote:en:main page }}
-| [[wikiquote:en:Main page|Wikiquote]]
-| {{click | Image = Wiktionary-logo-en.png | Size = 28px | Link = wikt:en:main page }}
-| colspan=3 | [[wikt:en:main page|Wiki ya tlhanodi]]
-|}
-| valign=top align=center width="10%" | [[Image:Community.gif]]
-| valign=top width="45%" |
-<h3 style="border-bottom: 1px solid #cfcfff; padding: 0.17em 0 0.5em 0;">Dipuo tse dingwe</h3>
-<span style="font-size:95%;">
-<!-- First the editions with >35.000 articles; then just the african languages. Please add those yourself. Please translate the part between (...) into Tswani. It is now still English. -->
-
-[[:en:|English&nbsp;(Sekgoa)]] –
-[[:de:|Deutsch&nbsp;(Segeremane)]] –
-[[:fr:|Français&nbsp;(Sefora)]] –
-[[:pl:|Polski&nbsp;(Sepolish)]] –
-[[:ja:|日本語&nbsp;(Sejapane)]] –
-[[:sv:|Svenska&nbsp;(Seswedish)]] –
-[[:it:|Italiano&nbsp;(Seitali)]] –
-[[:pt:|Português&nbsp;(Sepotokisi)]] –
-[[:es:|Español&nbsp;(Sespanish)]] –
-[[:ru:|Русский&nbsp;(Serashia)]] –
-[[:zh:|中文&nbsp;(Sechina)]] –
-[[:no:|Norsk&nbsp;(SeNoregian)]] –
-[[:fi:|Suomi&nbsp;(Sefinnish)]] –
-[[:eo:|Seesperanto]] –
-[[:da:|Dansk&nbsp;(Sedenishi)]] 
-</span>
-
-
-
-<p id="lang-coord" style="text-align:center">
-'''[[m:List of Wikipedias|Dipuo tshotlhe]]'''
-</p>
-|}
-
-{| width="100%" border=0 cellpadding=3 style="margin-top: 1em; border: 1px solid #cfcfff; background-color: #f9f9ff; text-align: center;"
-|<small>The content of '''Wikipedia''' falls under the [[GFDL]]-licence, is public, and may be distributed under the terms stated in the licence. </small>
-
-[[Help:Wikipedia|Public-contact]] - [[Wikipedia:Press|Presscontact]] 
-|}
-
-
-{{MediaWiki:!/InterLang|namespace=|pagename=}}
-
-[[ru-sib:]]
-LOL!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+| colspan=3 style="font-size: 1px; padding: 0;"  |
