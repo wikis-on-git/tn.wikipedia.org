@@ -4,8 +4,8 @@
 | style="background:#efefef;" align="center" colspan=2 |
 {| border="0" cellpadding="2" cellspacing="0"
 |-
-| align="center" width="140px" | [[Image:Flag of Namibia.svg|125px|Flag of Namibia]]
-| align="center" width="140px" | [[Image:Namibia coa.png]]
+| align="center" width="140px" | [[File:Flag of Namibia.svg|125px|Flag of Namibia]]
+| align="center" width="140px" | [[File:Namibia coa.png]]
 |-
 | align="center" width="140px" | ([[Folaga la Namibia|Folaga]])
 | align="center" width="140px" | ([[Coat of Arms of Namibia|Coat of Arms]])
@@ -13,7 +13,7 @@
 |-
 | align="center" colspan=2 | <small>''[[National motto]]: Unity, Liberty, Justice''</big>
 |-
-| align=center colspan=2 | [[image:LocationNamibia.png]]
+| align=center colspan=2 | [[File:LocationNamibia.png]]
 |}
 
 [[Category:Aferika]]
@@ -27,6 +27,7 @@
 [[arz:ناميبيا]]
 [[ast:Namibia]]
 [[az:Namibiya]]
+[[bar:Namibia]]
 [[bat-smg:Namibėjė]]
 [[be:Намібія]]
 [[be-x-old:Намібія]]
