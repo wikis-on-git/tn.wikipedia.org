@@ -62,7 +62,6 @@ O ka bona thuso gotsweng [http://en.wikipedia.org/wiki/Wikipedia:Create_a_new_la
 <center></div>
 <div style="width:98%;margin-top:.7em;border:1px solid gold;background:#cef2e0;padding:.7em;text-align:center"> 	 
 <big>'''[[{{CURRENTDAYNAME}}]] [[{{CURRENTDAY}} {{CURRENTMONTHNAME}}|{{CURRENTDAY}}]] [[{{CURRENTMONTHNAME}}]] [[{{CURRENTYEAR}}]]'''</big>
-* '''Article #{{NUMBEROFARTICLES}} :''' {{Special:Newpages/1}}
 </div>
 </center>
 <br>
