@@ -1,37 +1,39 @@
 {{fix}}
 
-{{maina a mafelo
-|leina ka fa molaong         = Gaborone
-|leina la motshameko          = Gabs, GC, Gabz, G-City
-|lebidiwa = Kgosi Kgosi Gaborone
-|Mofuta wa bodulo        = Toropo
-|setshwantsho sa loapi         = Gaborone Montage.png
+{{Infobox settlement
+|official_name          = Gaborone
+|nickname               = Gabs, GC, Gabz, G-City
+|named_for = [[Kgosi Gaborone]]
+|settlement_type        = Toropo
+|image_skyline          = Gaborone Montage.png
 |imagesize              = 250 px
 |image_caption          = From top to bottom: skyline view of Gaborone, statue of [[Seretse Khama]], the city centre of Gaborone, bird's-eye view of Gaborone
 |map_caption            = Location of Gaborone in Botswana
 |image_map1             = Gaborone 25.92305E 24.68895S.jpg
 |mapsize1               = 250px
 |map_caption1           = Satellite image of Gaborone
-|pushpin_map            =Botswana <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
-|pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
-|pushpin_mapsize        =250
+|pushpin_map            = Botswana
+|pushpin_label_position =
+|pushpin_mapsize        = 250
 |coordinates_region     = BW
-|subdivision_type       = Country
+|subdivision_type       = Naga
 |subdivision_name       = {{flag|Botswana}}
-|subdivision_type1      = [[Districts of Botswana|District]]
+|subdivision_type1      = [[Dikgaolo tsa Botswana|Kgaolo]]
 |subdivision_name1      = Gaborone
-|subdivision_type2      = [[Sub-districts of Botswana|Sub-district]]
+|subdivision_type2      = [[Dikgaolo-potlana tsa Botswana|Kgaolo-potlana]]
 |subdivision_name2      = Gaborone
-|leader_title           =[[Mayor]]
-|leader_name            =[[Haskins Nkayigwa]] ([[Botswana Movement for Democracy|BMD]])<ref name=mayor>{{Cite web|first=Ephraim |last=Keoreng|title=New Gaborone Mayor seeks power to hire and fire |url=http://www.mmegi.bw/index.php?sid=1&aid=494&dir=2011/October/Wednesday5 |publisher= [[Mmegi|Mmegi Online]] |location= Gaborone, Botswana |date=2011-10-05|accessdate=2011-10-09| volume=28 | issue=148}}</ref>
+|government_type        = [[City commission government]]
+|governing_body         = [[Gaborone City Council]]
+|leader_title           =Mayor
+|leader_name            =Haskins Nkaigwa ([[Botswana Movement for Democracy|BMD]])<ref name=mayor>{{Cite journal|first=Ephraim |last=Keoreng|title=New Gaborone Mayor seeks power to hire and fire |url=http://www.mmegi.bw/index.php?sid=1&aid=494&dir=2011/October/Wednesday5 |publisher= [[Mmegi|Mmegi Online]] |location= Gaborone, Botswana |date=5 October 2011|accessdate=9 October 2011| volume=28 | issue=148}}</ref>
 |leader_title1           =[[Deputy Mayor]]
-|leader_name1            =[[Florence Shagwa]] ([[Botswana Congress Party|BCP]])<ref name=mayor />
+|leader_name1            =Florence Shagwa ([[Botswana Congress Party|BCP]])<ref name=mayor />
 |established_title      =  Founded
-|established_date       = 1964<ref name=history>{{cite web |first=Neil |last=Parsons |title=Botswana History Page 7: Geography |url=http://www.thuto.org/ubh/bw/bhp7.htm |work= Botswana History Pages|publisher=University of Botswana History Department|location= Gaborone, Botswana |date=1999-08-19 |accessdate=2009-08-04}}</ref>
-|area_magnitude         = 1 E+6
+|established_date       = 1964<ref name=history>{{cite web |first=Neil |last=Parsons |title=Botswana History Page 7: Geography |url=http://www.thuto.org/ubh/bw/bhp7.htm |work= Botswana History Pages|publisher=University of Botswana History Department|location= Gaborone, Botswana |date=19 August 1999 |accessdate=4 August 2009}}</ref>
+|area_magnitude         = 1 E+8
 |unit_pref                = <!--Enter: Imperial, if Imperial (metric) is desired-->
-|area_footnotes           =<ref name=economy />
-|area_total_km2           = 19.6
+|area_footnotes           =<ref name=BSYB />
+|area_total_km2           = 169
 |area_land_km2            = <!--See table @ Template:Infobox settlement for details on automatic unit conversion-->
 |area_water_km2           =
 |area_total_sq_mi         =
@@ -42,12 +44,12 @@
 |area_urban_sq_mi         =
 |area_metro_km2           =
 |area_metro_sq_mi         =
-|population_as_of               =  2006
-|population_footnotes = <ref name=demo />
-|population_total               = 191776
-|population_density_km2         = 1101
+|population_as_of               =  2011
+|population_footnotes =<ref name=2011Census />
+|population_total               = 231626
+|population_density_km2         = auto
 |population_density_sq_mi       =
-|population_metro               =
+|population_metro               = 421907
 |population_density_metro_km2   =
 |population_density_metro_sq_mi =
 |population_urban               =
@@ -59,18 +61,20 @@
 | utc_offset_DST         = +2
 |latd=24 |latm=39 |lats=29 |latNS=S
 |longd=25 |longm=54 |longs=44 | longEW=E|coordinates_display=d
-|elevation_footnotes    =  <ref>{{cite web|url=http://www.fallingrain.com/world/BC/09/Gaborone.html|title=Gaborone, Botswana Page|publisher=Falling Rain Genomics, Inc.}}</ref>
+|elevation_footnotes    =<ref>{{cite web|url=http://www.fallingrain.com/world/BC/09/Gaborone.html|title=Gaborone, Botswana Page|publisher=Falling Rain Genomics, Inc.}}</ref>
 |elevation_m            = 983
 |elevation_ft           =
-|area_code_type = [[Telephone numbers in Botswana|Geographical area code]]<ref>[http://www.timeanddate.com/worldclock/city.html?n=86 timeanddate.com]</ref><ref>{{Cite book | title =Botswana (country code +267)   | url =http://www.itu.int/dms_pub/itu-t/oth/02/02/T020200001C0001MSWE.doc| author=Botswana Telecommunications Authority|publisher=International Telecommunication Union | accessdate =2009-12-27|date=2009-09-11|format=DOC|work=National Numbering Plans|archiveurl=http://www.webcitation.org/5mKyF8Dce|archivedate=2009-12-27}}</ref>
+|area_code_type = [[Telephone numbers in Botswana|Geographical area code]]<ref>[http://www.timeanddate.com/worldclock/city.html?n=86 timeanddate.com]</ref><ref>{{Cite book | title =Botswana (country code +267)   | url =http://www.itu.int/dms_pub/itu-t/oth/02/02/T020200001C0001MSWE.doc| author=Botswana Telecommunications Authority|publisher=International Telecommunication Union | accessdate =27 December 2009|date=11 September 2009|format=DOC|work=National Numbering Plans|archiveurl=http://www.webcitation.org/5mKyF8Dce|archivedate=27 December 2009}}</ref>
 |area_code              =3XX
 |iso_code = BW-SE
 |twin1 = [[Burbank, California|Burbank]]
 |twin1_country = {{flag|United States}}
 |twin2 = [[Zhejiang|Zhejiang Province]]
 |twin2_country = {{flag|China}}
-|website                = [http://www.gov.bw/en/Ministries--Authorities/Ministries/Ministry-of-Local-Government-MLG1/Local-Authorities/Gaborone-City-Council/ Gaborone City Council Website]
-}} 
+|twin3 = [[Västerås]]
+|twin3_country = {{flag|Sweden}}
+|website                = [http://www.gov.bw/en/Ministries--Authorities/Local-Authorities/Gaborone-City-Council/ Gaborone City Council Website]
+}} <!-- Infobox ends -->
 
 Sekgowa {{IPAc-en|ˌ|ɡ|æ|b|ə|ˈ|r|oʊ|n|iː}} or {{IPAc-en|ˌ|x|ɑː|b|ə|ˈ|r|oʊ|n|eɪ|}}, ke leina le le gatisitsweng kana le le biditsweng go reelela toropo ka Kgosi  [[Setswana|Kgosi Gabarone]]) Gaborone ke [[Setswana|toropo kgolo mo]]  [[Setswana|Botswana]] e na le palo ya batho ba ba  191,776 tse di gatisitsweng ka ngwaga wa 2006 go ya ka  dipatlisiso,<ref name="demo"/> se e le sesupo sa gore 10% ya Botswana jotlhe ka bophara e kwa Gaborone.
 
@@ -80,8 +84,6 @@ Toropo ya Gaborone e fithelwa magare ga thaba ya Kgale le Oodi, fa nokeng ya Not
 Ka gonne toropo e ga ene mathata a merafe gape e gaufi le metsi a a phepa, toropo e e agetswe go nna motsemogolo ka ngwaga wa 1960s fa lefatshe la Bechuanaland Protectorate  le tsaya puso, le bo le nna lefatshe le le ikemetseng ka nosi. Mo gare ga toropo e go na le madirelo a dikgwebo, tse di bitswang mafelo a marekisetso, le mafelo a ga goromente a agilweng kwa bophirima jwa marekisetso a. Toropo e e nggwe ya ditoropo tse di golang mo lefatsheng, se se bakile mathata a tlhaelo ya lefatshe le go ipaya mo go seng ka fa molaong.  Toropo e e nale dikgotlhang tse di tsenang mo lefatsheng go tswa ko [[Zimbabwe]] le [[Aferika Borwa|Aferika borwaka]] ngwaga wa 1980.
 
 Toropo e ke motsemogolo gape ke toropo ya itsholelo; gape ke toropo ya bokopanelo jwa dikomponi le go fetola madi mo Botswana. Gaborone gape ke legae la [[SADC|Sethopha sa thabololo sa aferika]] (SADC) komponi ya dichaba, ka tsholofelo ya go godisa itsholelo.
-
-{{TOC limit|3}}
 
 == Ditso tsa Gaborone ==
 
@@ -104,7 +106,7 @@ Morago ga  dithopho tsa ngwaga wa 1994, dingongorego tsa tsoga mo Gaborone ke nt
 Mo tsatsing la gompieno Gaborone o gola ka bonako. ka ngwaga wa 1964, Gaborone o ne a nale banni ba le 3,855;<ref name="BALA"/> dingwaga tse supa morago, toropo ya bo e na le banni ba le 18000.<ref name="census3"/> Toropo e e ne e agetswe banni ba le 20,000, mme ka ngwaga wa 1992, toropo ke fa e nale batho ba le 138,000. Se se ne sa dira gore go nnele bo maipaya fela mo mafelong a a sa thabololwang.<ref>{{Cite book|last1=Carr|first1=Michael | title =New patterns: process and change in human geography|chapter=The form and future shape of the modem city|page=224|chapterurl=http://books.google.com/books?id=7lKIMAS_7hoC&lpg=PA211&pg=PA211#v=onepage&q=&f=false | url =http://books.google.com/?id=7lKIMAS_7hoC&lpg=PA211&pg=PA224#v=onepage&q= | publisher=Nelson Thornes|year=1997|edition=2nd|isbn=9780174386810 | accessdate =2009-08-06}}</ref> Mmatoropo wa pele Veronica Lesole o ne a bua gore mathata a dithabololo tsa toropo ya Gaborone e bakilwe ke baagi ba toropo ba ntlha..<ref>{{cite web|title=Garden City Concept is a thing of the past, says Richard Rogers|url=http://boidus.co.bw/blog/?p=2295|publisher=Boidus.co.bw|accessdate=2011-10-09|date=2011-07-15}}</ref> 
 
 == Lefatshe ==
-Gaborone o agilwe {{Coord|24|39|29|S|25|54|44|E}} magare ga thaba ya Kgale le  Oodi, mo nokeng ya Notwane mo borwabothaba jwa Botswana, le  {{convert|15|km|mi}} go tswa mo molelwaneng wa Aferika borwa<ref name="seth"/>
+Gaborone o agilwe {{Coord|24|39|29|S|25|54|44|E}} magare ga thaba ya Kgale le  Oodi, mo nokeng ya Notwane mo borwabothaba jwa Botswana, le {{convert|15|km|mi}} go tswa mo molelwaneng wa Aferika borwa<ref name="seth"/>
 Gaborone o dikanyegilwe ke ditoropo tse di latelang: [[Ramotswa]] ko borwabothaba, [[Mogoditshane]]mo bokonibothaba, le  [[Mochudi]] ko bothaba, le  [[Tlokweng]] fa o kgabaganya noka. Bontsi jwa tsone ke ditoropo tsa batsamai  ba  Gaborone. Mafelo a  Gaborone a akaretsa Broadhurst, Gaborone West, Village, Naledi,<ref name="seth"/> le Canada yo mosha. Phakalane,toropo e e humileng, e ko bokoni jwa mafelelo a toropo.<ref name="phakalane">{{cite web |author=Phakalane Properties |title=Gaborone Information -  Phakalane Properties, Botswana |url=http://www.phakalane.com/phakalane/|location=Phakalane, Botswana |year= 2008 |accessdate=2011-05-24}}{{Dead link|date=July 2010}}</ref>
 
 Mo bogare jwa toropo go na le mafelo a marekisetso, a madi le bojanala mo Gaborone. Mafelo s na le dibanka tse dintsi le marekisetso. Ko bothaba jwa madirelo a kgwebo, motho o ka fithela lefelo la Civic centre le setshwntsho sa pula go ikgakolola boipuso jwa Botswana. Mafelo a go fetola madi le dithotho, polokele ya ditsho le botaki/1}, le  [[mmadikole wa Botswana]] le tsone di gaufi le madirelo a kgwebo.  Ko bophirima jwa madirelo a kgwebo go na le dikago tsa goromente. Lefelo le le na le dikago tsa  palamente le  ntlo ya dikgosi. Le ntlo ya ditso ya sechaba e fithelwa fa.
@@ -685,42 +687,41 @@ Gaborone o tshwantshangwa le toropo le kgaolo nngwe:
 * {{flagicon|China}}  kgaolo ya Zhejiang , China<ref>{{cite web|last=Mooketsi|first=Lekopanye|title=Chinese firms to build massive industrial park|url=http://mmegi.bw/index.php?sid=4&aid=10&dir=2009/April/Wednesday1|publisher=Mmegi|accessdate=2010-08-03|date=2009-04-01|quote=The last event was the signing ceremony for a twinning arrangement between Zhejiang Province and the Gaborone City Council. }}</ref>
 
 == Polokelo ==
-{{Image gallery
+{{Gallery
 |lines=4
-|GaboroneStreetScene.jpg|A road with a Bank Gaborone building to the left and a taller building with curved truss structures on the windows to the right|Street scene near the Main Mall
-|Gaboronecitycentre.JPG|Two tall buildings. The right building is white and circular with about ten floors and with a grey trailer in front. The taller building on the left is cut off in the top right corner. It seems to be made up of smaller interconnected buildings with tinted windows|Gaborone's city centre
-|Gaberone aerial.jpg|Bird's-eye view of residential neighborhoods. The houses at the bottom third of the picture have much larger yards and more trees. The neighborhood in the center of the picture has a very defined road shaped like a backwards 6, and the houses have orange and grey roofs and are very close to each other. The neighborhood at the top right has multicolor roofs. There is a road cutting through the middle of the picture.|Another aerial view of the city
-|RhodesiaRailcar.jpg|A brown train, viewed from the side, is at rest under a small open station. “1035 Rhodesia Railways” is written in gold letters over the train's windows. There is a white fence and a brick walkway in front of the train.|Rhodesia Railways car at the national museum
-|GaberoneAerial.jpg|A broad view of the city facing east, the picture taken from a plane. In the middle is a large residential neighborhood. The downtown area and the Gaborone Dam are in the far right towards the horizon. At the bottom of the picture to the left is a large undeveloped area, and to the right is another neighborhood.|Aerial view of the city looking east—downtown is in the right-center of the image, with the reservoir just beyond
-|Khama statue.jpg|A bronze-colored, life-size statue of a prominent black man in a suit, his hands in front of his stomach. The statue is on top of a pedestal which is on top of a large brown rock, surrounded by smaller rocks. The statue has trees behind it, and it is in a small brick-paved square.|Statue of Khama outside the Botswana Parliament building
-|Overlooking Mokolodi Nature Reserve.jpg|A broad expanse of dry savanna with hills in the background. The foreground contains large rocks on the ground with two trees flanking the sides of the picture.|Overlooking Mokolodi Nature Reserve, just outside of Gaborone, Botswana
-|GaboroneSkyline.jpg|A skyline picture of Gaborone with a field, forest, and low-lying houses in the foreground and buildings along the horizon.|Skyline of Gaborone
-|University of Botswana Administration Building.jpg|University of Botswana Administration Building|University of Botswana Administration Building
-|University of Botswana dorms.jpg|Dormitories for the University of Botswana|Dormitories for the University of Botswana
-|GABS-UB Courtyard.JPG|Courtyard and University of Botswana buildings|Courtyard and University of Botswana buildings
-|UB IM Match.jpg|University of Botswana intramural football game|University of Botswana intramural football game
-|Parliament Buildings, Gaborone, Botswana.jpg|Parliament Buildings of Botswana|Parliament Buildings of Botswana
-|Kgale Hill 1.jpg||
-|Kgale Hill 2.jpg||
-|Kgale Hill 3.jpg||
-|Kgale Hill 4.jpg||
-|Gaborone Dam 1.jpg||
-|Gaborone Dam 2.jpg||
-}}
+|File:GaboroneStreetScene.jpg|alt1=A road with a Bank Gaborone building to the left and a taller building with curved truss structures on the windows to the right|Street scene near the Main Mall
+|File:Gaboronecitycentre.JPG|alt2=Two tall buildings. The right building is white and circular with about ten floors and with a grey trailer in front. The taller building on the left is cut off in the top right corner. It seems to be made up of smaller interconnected buildings with tinted windows|[[Department of Taxes and Attorney General's Chambers Building]] (left) and Ministry of Health Building (right)
+|File:Gaberone aerial.jpg|alt3=Bird's-eye view of residential neighborhoods. The houses at the bottom third of the picture have much larger yards and more trees. The neighborhood in the center of the picture has a very defined road shaped like a backwards 6, and the houses have orange and grey roofs and are very close to each other. The neighborhood at the top right has multicolor roofs. There is a road cutting through the middle of the picture.|Another aerial view of the city
+|File:RhodesiaRailcar.jpg|alt4=A brown train, viewed from the side, is at rest under a small open station. “1035 Rhodesia Railways” is written in gold letters over the train's windows. There is a white fence and a brick walkway in front of the train.|Rhodesia Railways car at the national museum
+|File:GaberoneAerial.jpg|alt5=A broad view of the city facing east, the picture taken from a plane. In the middle is a large residential neighborhood. The downtown area and the Gaborone Dam are in the far right towards the horizon. At the bottom of the picture to the left is a large undeveloped area, and to the right is another neighborhood.|Aerial view of the city looking east—downtown is in the right-center of the image, with the reservoir just beyond
+|File:Khama statue.jpg|alt6=A bronze-colored, life-size statue of a prominent black man in a suit, his hands in front of his stomach. The statue is on top of a pedestal which is on top of a large brown rock, surrounded by smaller rocks. The statue has trees behind it, and it is in a small brick-paved square.|Statue of Khama outside the Botswana Parliament building
+|File:Overlooking Mokolodi Nature Reserve.jpg|alt7=A broad expanse of dry savanna with hills in the background. The foreground contains large rocks on the ground with two trees flanking the sides of the picture.|Overlooking Mokolodi Nature Reserve, just outside of Gaborone, Botswana
+|File:GaboroneSkyline.jpg|alt8=A skyline picture of Gaborone with a field, forest, and low-lying houses in the foreground and buildings along the horizon.|Skyline of Gaborone
+|File:University of Botswana Administration Building.jpg|alt9=|University of Botswana Administration Building
+|File:University of Botswana dorms.jpg|alt10=|Dormitories for the University of Botswana
+|File:GABS-UB Courtyard.JPG|alt11=|Courtyard and University of Botswana buildings
+|File:UB IM Match.jpg|alt12=|University of Botswana intramural football game
+|File:Parliament Buildings, Gaborone, Botswana.jpg|alt13=|Parliament Buildings of Botswana
+|File:Kgale Hill 2.jpg|alt15=|
+|File:Gaborone Dam 1.jpg|alt18=|
+|File:Gaborone Dam 2.jpg|alt19=|
+|File:Parlamento de Botswana.jpg|alt20=|Parliament of Botswana
+|File:Embajada de Zambia - Gaborone, Botswana.jpg|alt21=|Zambia Embassy
+|File:Embajada de Angola - Gaborone, Botswana.jpg|alt22=|Angola Embassy
+|File:Department of Taxes and Attorney General's Chambers Building.jpg}}
 
 == Dipadi tsa kwa: ==
 {{Reflist|2}}
 
-== Dikgoge tsa kwa ntle
-
- ==
-{{Sister project links|Gaborone|b=no|q=no|s=no|n=no|v=no}}
+== Dikgoge tsa kwa ntle ==
+<!--{{Sister project links|Gaborone|b=no|q=no|s=no|n=no|v=no}}-->
 * [http://www.mlg.gov.bw/PGContent.php?UID=388  Website ya khansele ya Gaborone]
-* {{Wikitravel}}
+* {{Wikivoyage}}
 * [http://www.wikimapia.org/#lat=-24.6499815&amp;lon=25.9100533&amp;z=13&amp;l=0&amp;m=b Gaborone] Mmepe wa maranyana ko WikiMapia (not affiliated with Wikipedia/Wikimedia Foundation)
 * [http://www.britannica.com/EBchecked/topic/223198/Gaborone Gaborone] ''Matseno a Encyclopædia Britannica''  
 * [http://www.botswanatourism.co.bw/maps/img/gabs_big.gif Mmepe ya Gaborone]
 
+<!-- Enable when templates when created
 {{Portal|Botswana}}
 {{Template group
 |title = Articles Related to Gaborone
@@ -735,8 +736,7 @@ Gaborone o tshwantshangwa le toropo le kgaolo nngwe:
 {{Capitals of Districts of Botswana}}
 {{Botswana largest cities}}
 {{List of African capitals}}
-}}
-{{Use dmy dates|date=August 2010}}
+}}-->
 
 [[Category:Gaborone]]
 [[Category:Ditoropokgolo mo Aferika.]]
