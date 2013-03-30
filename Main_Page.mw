@@ -1,84 +1,90 @@
-<div id="mf-home">
-__NOEDITSECTION__ __NOTOC__
-{|style="width:100%;margin-top: .7em;background-color:#eaf5fb;border:1px solid #ccc"
-|style="width:56%;color:#000"|
-<center><big><big><big>Amogelesega mo [[Wikipedia]],</big></big></big><br /><br /></center> Tirisanyommogo e maikaelelo a yone e leng go leka go ensaeklopidia ka diteme tsa mafatshe a a farologanyeng, mme ebile e sa sokamela ka letlhakoreng lepe e bile e dirisiwa ke mongwe le mongwe mo interneteng mahala. Wikipedia ga e duelelwe, e bile e ka dirisiwa go batla tlhaloso ya sepe fela kgotsa go tsenya sengwe, le go baakanya tse di setseng di tsentswe. Ka gore mongwe le mongwe o kgone go tsenya se a se batlang, Wikipedia ga e kake ya [[Wikipedia:Disclaimer|tshepisa]] ya gore se o tla se filthelang fa ke boammaaruri jo bo tletseng. O ka lekeletsa ka [[Wikipedia:Sandbox|Sandbox]]. Tswana Wikipedia e, e na le di article di le [[Special:statistics|{{NUMBEROFARTICLES}}]]. Go tsaya malebane go bona gore o ka kwala eng, o ka tlhola [[Dikopo tsa di article|gore batho ba kopile eng]] 
+<!--        BANNER ACROSS TOP OF PAGE        -->
+{| id="mp-topbanner" style="width:100%; background:#fcfcfc; margin-top:1.2em; border:1px solid #ccc;"
+| style="width:56%; color:#000;" |
+<!--        "WELCOME TO WIKIPEDIA" AND ARTICLE COUNT        -->
+{| style="width:280px; border:none; background:none;"
+| style="width:280px; text-align:center; white-space:nowrap; color:#000;" |
+<div style="font-size:162%; border:none; margin:0; padding:.1em; color:#000;"> Amogelesega mo [[Wikipedia]],</div>
+<div style="top:+0.2em; font-size:95%;"> [[Ensaeklopidia]] ya [[mahala]] e [[Wikipedia:Introduction|mongwe le mongwe a ka e kwalang]].</div>
+<div id="articlecount" style="font-size:85%;">Go na le di [[Special:Allpages|article]] di le '''[[Special:statistics|{{NUMBEROFARTICLES}}]]'''.</div>
 |}
-<center>
-{|
-|<inputbox>
-type=search
-width=45
-</inputbox>
-||
-<inputbox>
-type=create
-width=45
-</inputbox>
+<!--        PORTAL LIST ON RIGHT-HAND SIDE        -->
+| style="width:13%; font-size:95%;" |
+* [[Portal:Arts|Arts]]
+* [[Portal:Biography|Biography]]
+* [[Portal:Geography|Geography]]
+| style="width:13%; font-size:95%;" |
+* [[Portal:History|History]]
+* [[Portal:Mathematics|Mathematics]]
+* [[Portal:Science|Science]]
+| style="width:13%; font-size:95%;" |
+* [[Portal:Society|Society]]
+* [[Portal:Technology|Technology]]
+* '''[[Portal:Contents/Portals|All portals]]'''
 |}
-</center>
-
-''Dumela Rra! / Dumela Mma!''
-
-''O tsogile jang?''
-
-A rona babui ba Setswana re simololeng, re kwaleng di article, re godiseng puo e ya rona.  <div style="position: absolute; left: -300px; top: -300px;">
-
-</div>Go na le di [[Special:Allpages|article]] di le '''[[Special:statistics|{{NUMBEROFARTICLES}}]]'''. Dingwe tsa tsone, le tse di tlhokang go kwalwa ke tse:
-
-*[[Botswana]]
-*[[Setswana]]
-*[[Setso sa Setswana]]
-*[[Gaborone]]
-*[[Molepolole]]
-*[[Francistown]]
-*[[Diane]]
-*[[Maele]]
-*[[Dipapiso]]
-*[[Dithamalakwane]] / [[Dithamalakane]] 
-*[[Serowe]]
-*[[Sekalaka]]
-*[[Sekgalagadi]]
-*[[fatshe leno la rona]]
-*[[Aferika]]
-*[[Seretse Khama]]
-*[[Bophuthatswana]]
-*[[Basarwa]]
-*[[Gauteng]]
-*[[Tirelo ya Dipuo tsa Bosetšhaba]]
-*[[Aferika Borwa]]
-*[[Mahalapye]]
-*[[Lucas Manyane Mangope]]
-*[[Basupi ba ga Jehofa]]
-*[[Jehova]]
-*[[Tora ya Tebelo]]
-A re yeng [[wikipedia:Ko kgotleng|Ko kgotleng]], re buisanyeng, re arabe dipotso. Ko kgotleng ke ko go yang bagolo fela.
-
-O ka bona thuso gotsweng [http://en.wikipedia.org/wiki/Wikipedia:Create_a_new_language_in_Wikipedia Go simolola wikipedia ka puo e nngwe].
-
-<div class="usermessage"><center>
-[[meta:List of articles all languages should have|List of articles all languages should have]]<br>
-[[Wikipedia:Vital articles|Vital articles (1000)]]<br>
-[[Wikipedia:Vital 100|Vital 100]]
-<center></div>
-<div style="width:98%;margin-top:.7em;border:1px solid gold;background:#cef2e0;padding:.7em;text-align:center"> 	 
-<big>'''[[{{CURRENTDAYNAME}}]] [[{{CURRENTDAY}} {{CURRENTMONTHNAME}}|{{CURRENTDAY}}]] [[{{CURRENTMONTHNAME}}]] [[{{CURRENTYEAR}}]]'''</big>
+<!--        MAIN PAGE BANNER        -->
+{{#if:{{Main Page banner}}|
+<table id="mp-banner" style="width: 100%; margin:4px 0 0 0; background:none; border-spacing: 0px;">
+<tr><td class="MainPageBG" style="text-align:center; padding:0.2em; background-color:#fffaf5; border:1px solid #f2e0ce; color:#000; font-size:100%;">{{Main Page banner}}
+</td></tr>
+</table>
+}}
+<!--        TODAY'S FEATURED CONTENT        -->
+{| id="mp-upper" style="width: 100%; margin:4px 0 0 0; background:none; border-spacing: 0px;"
+<!--        DIKGANG TSA; LETSATSI        -->
+| class="MainPageBG" style="width:45%; border:1px solid #cedff2; background:#f5faff; vertical-align:top;"|
+{| id="mp-left" style="width:100%; vertical-align:top; background:#f5faff;"
+| style="padding:2px;" | <h2 id="mp-itn-h2" style="margin:3px; background:#cedff2; font-size:120%; font-weight:bold; border:1px solid #a3b0bf; text-align:left; color:#000; padding:0.2em 0.4em;">Ensaeklopidia ya mahala</h2>
+|-
+| style="color:#000; padding:2px 5px;" | <div id="mp-itn">{{About Wikipedia}}</div>
+|-
+| style="padding:2px;" | <h2 id="mp-dyk-h2" style="margin:3px; background:#cef2e0; font-size:120%; font-weight:bold; border:1px solid #a3bfb1; text-align:left; color:#000; padding:0.2em 0.4em;">A o kile wa utlwa...</h2>
+|-
+| style="color:#000; padding:2px 5px 5px;" | <div id="mp-dyk">{{Did you know}}</div>
+|}
+| style="border:1px solid transparent;" |
+<!--        TODAY'S FEATURED ARTICLE; DID YOU KNOW        -->
+| class="MainPageBG" style="width:55%; border:1px solid #cef2e0; background:#f5fffa; vertical-align:top; color:#000;" |
+{| id="mp-right" style="vertical-align:top; background:#f5fffa;"
+| style="padding:2px;" | <h2 id="mp-tfa-h2" style="margin:3px; background:#cef2e0; font-size:120%; font-weight:bold; border:1px solid #a3bfb1; text-align:left; color:#000; padding:0.2em 0.4em;">{{#ifexpr:{{formatnum:{{PAGESIZE:Wikipedia:Today's featured article/{{#time:F j, Y}}}}|R}}>150|From today's featured article|Dikoranta tse di kwadilweng}}</h2>
+|-
+| style="color:#000;" | <div id="mp-tfa" style="padding:2px 5px">{{#ifexpr:{{formatnum:{{PAGESIZE:Wikipedia:Today's featured article/{{#time:F j, Y}}}}|R}}>150|{{Wikipedia:Today's featured article/{{#time:F j, Y}}}}|{{Wikipedia:Today's featured article}}}}</div>
+|}
+|}
+<!--        TODAY'S FEATURED LIST        --><!-- CONDITIONAL: SHOW/HIDE FROM HERE -->{{#switch:{{CURRENTDAYNAME}}|Monday=
+<table id="mp-middle" style="margin:4px 0 0 0; width:100%; background:none; border-spacing: 0px;">
+<tr>
+<td class="MainPageBG" style="width:100%; border:1px solid #f2cedd; background:#fff5fa; vertical-align:top; color:#000;">
+<table id="mp-center" style="vertical-align:top; background:#fff5fa; color:#000; width:100%">
+<tr>
+<td style="padding:2px;"><h2 id="mp-tfl-h2" style="margin:3px; background:#f2cedd; font-size:120%; font-weight:bold; border:1px solid #bfa3af; text-align:left; color:#000; padding:0.2em 0.4em">From today's featured list</h2></td>
+</tr><tr>
+<td style="color:#000;"><div id="mp-tfl" style="padding:2px 5px;">{{#ifexist:Wikipedia:Today's featured list/{{#time:F j, Y}}|{{Wikipedia:Today's featured list/{{#time:F j, Y}}}}|{{TFLempty}}}}</div></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!--        END TODAY'S FEATURED LIST        --><!-- CONDITIONAL: SHOW/HIDE TO HERE -->|}}
+<!--        TODAY'S FEATURED PICTURE        -->
+{| id="mp-lower" style="margin:4px 0 0 0; width:100%; background:none; border-spacing: 0px;"
+| class="MainPageBG" style="width:100%; border:1px solid #ddcef2; background:#faf5ff; vertical-align:top; color:#000;" |
+{| id="mp-bottom" style="vertical-align:top; background:#faf5ff; color:#000; width:100%"
+| style="padding:2px;" | <h2 id="mp-tfp-h2" style="margin:3px; background:#ddcef2; font-size:120%; font-weight:bold; border:1px solid #afa3bf; text-align:left; color:#000; padding:0.2em 0.4em">{{#ifexist:Template:POTD protected/{{#time:Y-m-d}}|Dinepe tsa letsatsi | Dinepe tsa letsatsi&ensp;}}</h2>
+|-
+| style="color:#000; padding:2px;" | <div id="mp-tfp">{{#ifexist:Template:POTD protected/{{#time:Y-m-d}}|{{POTD protected/{{#time:Y-m-d}}}}|{{POTD}}}}</div>
+|}
+|}
+<!--        SECTIONS AT BOTTOM OF PAGE        -->
+<div id="mp-other" style="padding-top:4px; padding-bottom:2px;">
+== Other areas of Wikipedia ==
+{{Other areas of Wikipedia}}
+</div><div id="mp-sister">
+== Wikipedia's sister projects ==
+{{Wikipedia's sister projects}}
+</div><div id="mp-lang">
+== Dipuo ==
+{{Wikipedia/Dipuo}}
 </div>
-</center>
-<br>
-{| width="60%" style="border:1px solid black" align=center
-|
-<inputbox>
-type=create
-width=45
-</inputbox>
-|}
-<br>
-<br>
-</center></div>
-{{Languages}}
-For edit and translate this template, go to [[Template:Languages]] and click ''Edit''
-----
-{| class="plainlinks" width="100%" height="100%" border=0 cellspacing=0 cellpadding=6 style="font-size: 95%; border-bottom: 1px solid #cfcfff;" 
-| colspan=3 style="font-size: 1px; padding: 0;"  |
-</div>
+<!--        INTERWIKI STRAPLINE        -->
+<noinclude>{{Main Page interwikis}}{{noexternallanglinks}}</noinclude>__NOTOC____NOEDITSECTION__
