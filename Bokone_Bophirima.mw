@@ -28,6 +28,8 @@
 <!-- lefatshe ---------------------->
 | area_footnotes          = <ref name="cib2011">{{cite book |title=Census 2011: Census in brief |url=http://www.statssa.gov.za/Census2011/Products/Census_2011_Census_in_brief.pdf |publisher=Statistics South Africa |location=Pretoria |year=2012 |isbn=9780621413885}}</ref>{{rp|9}}
 | area_total_km2          = 104882
+|total_type               = Palo gotlhe
+
 <!-- elevation ----------------->
 | elevation_max_footnotes = <!-- for references: use<ref> tags -->
 | elevation_max_m         = 1805
