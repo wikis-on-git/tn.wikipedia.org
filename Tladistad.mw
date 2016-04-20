@@ -1,4 +1,4 @@
-{{coord|-25.2035|28.0359|dim:30_region:ZA-NW|display=title}}
+{{coord|-25.2036|28.0359|dim:30_region:ZA|name=Tladistad|display=title}}
 
 {{Infobox settlement
 | name               = Tladistad
@@ -7,8 +7,8 @@
 | pushpin_map_caption= Tladistad, Moretele, Bokone Bophirima
 | latd                   = -25.2036
 | longd                  = 28.0359
-| coordinates_region = ZA-NW
-| coordinates_type   = type:village_dim:250
+| coordinates_region = ZA
+| coordinates_type   = type:village_dim:30
 
 | subdivision_type   = Naga
 | subdivision_name   = {{flagicon|ZAF}} [[Aferika Borwa|Aforika Borwa]]
