@@ -1,3 +1,5 @@
+{{coord|-27|26|type:province_region:ZA|display=title}}
+
 {{Infobox settlement
 |Name=Bokone Bophirima
 | settlement_type                = [[Diprofense tsa Afrika Borwa|Profense ya Aforika Borwa]]
@@ -10,6 +12,8 @@
 | subdivision_name               = {{flagicon|ZAF}} [[Aferika Borwa|Aforika Borwa]]
 | established_title              = E Tlhamilwe
 | established_date               = 27 Moranang 1994
+| coordinates_region             = ZA
+| coordinates_type               = type:province_region:ZA_dim:30
 <!-- ditulo le mafelo a mangwe a profense --->
 | seat_type                      = Moshate
 | seat                           = [[Mahikeng]]
