@@ -9,6 +9,7 @@
 
 <div style="text-align:center; margin:0.25em auto 0.75em">{{purge|'''Show new selections'''}}</div>
 
+
 <div class="portal-column-left"> <!-- Switch to one column on narrow screens -->
 
 {{Random portal component with nominate|max=5|header=Selected article|footer=More articles...| subpage=Selected article}}
