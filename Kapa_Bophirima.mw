@@ -1,15 +1,73 @@
-{{Infobox PoSA
-| Code Province    = WC
-| Capitale         = [[Cape Town]]
-| Largest city     = [[Cape Town]]
-| Premier          = Hellen Zille (DA)
-| Area Total       = 129 462
-| Area Rank        = 4
-| Population Total = 5 822 734
-| Population Year  = 2011
-| Population Rank  = 4
-| Density          = 45
+{{Infobox settlement
+| coordinates_region               = ZA
+| name                             = Kapa Bophirima
+| native_name                      = Western Cape <span style="color:#aaa;font-size:12px">(English)</span><br />
+                                     Wes-Kaap <span style="color:#aaa;font-size:12px">(Afrikaans)</span><br />
+| settlement_type                  = [[Diprofense tsa Afrika Borwa|Profense ya Aforika Borwa]]
+| image_flag                       = ..Western_Cape_Flag(SOUTH_AFRICA).png
+| motto                            = Spes Bona (Good Hope)
+| image_map                        = Western_Cape_in_South_Africa.svg
+| map_caption                      = Kapa Bophirima, Aforika Borwa
+
+| subdivision_type                 = Naga
+| subdivision_name                 = {{flagicon|ZAF}} [[Aferika Borwa|Aforika Borwa]]
+| established_title                = E Tlhamilwe
+| established_date                 = 27 Moranang 1994
+
+| seat_type                        = Moshate
+| seat                             = [[Cape Town]]
+| parts_type                       = [[Districts tsa Afrika Borwa|Dikarolwana]]
+| parts_style                      = coll
+| p1                               = [[City of Cape Town]]
+| p2                               = [[West Coast District Municipality|West Coast]]
+| p3                               = [[Cape Winelands District Municipality|Cape Winelands]]
+| p4                               = [[Overberg District Municipality|Overberg]]
+| p5                               = [[Eden District Municipality|Eden]]
+| p6                               = [[Central Karoo District Municipality|Central Karoo]]
+
+| government_type                  = [[Parliamentary system]]
+| leader_title                     = Tonakgolo
+| leader_name                      = [[Helen Zille]]
+
+| area_total_km2       = 129462
+| total_type           = Palo gotlhe
+| area_footnotes       = <ref name="cib2011">{{cite book |title=Census 2011: Census in brief |url=http://www.statssa.gov.za/Census2011/Products/Census_2011_Census_in_brief.pdf |publisher=Statistics South Africa |location=Pretoria |year=2012 |isbn=9780621413885}}</ref>{{rp|9}}
+
+<!-- elevation ----------------->
+| elevation_max_footnotes = <!-- for references: use<ref> tags -->
+| elevation_max_m         = 2325
+| elevation_min_footnotes = <!-- for references: use<ref> tags -->
+| elevation_min_m         = 0
+
+
+| demographics_type1              = Ditlhopha tsa Batho <ref name="cib2011" />
+| demographics1_title1            = [[Bantsho]]
+| demographics1_info1             = 32.8%
+| demographics1_title2            = [[Basweu]]
+| demographics1_info2             = 15.7%
+| demographics1_title3            = [[Coloured]]
+| demographics1_info3             = 48.8
+| demographics1_title4            = [[Indian]]/[[Asian]]
+| demographics1_info4             = 1.0%
+
+| demographics_type2              = Maleme  <ref name="cib2011" />
+| demographics2_title1            = [[Afrikaans]]
+| demographics2_info1             = 49.7%
+| demographics2_title3            = [[Sexhosa]]
+| demographics2_info3             = 24.7%
+| demographics2_title4            = [[Sekgoga]]
+| demographics2_info4             = 20.2%
+
+
+| timezone1                       = [[South African Standard Time|SAST]]
+| utc_offset1                     = +2
+<!-- poso --->
+| iso_code                        = ZA-WC
+<!-- website, footnotes -------->
+| website                 = [http://www.westerncape.gov.za/ www.westerncape.gov.za]
+| footnotes               =
 }}
+
 '''{{PAGENAME}}''' ke nngwe ya diporofinsi mo [[Aferika Borwa]].Torpo kgolo ke Cape Town.Ka ngwaga wa 1994, tkgaolo e e agang Western Cape e ne ele bontlha bongwe jo bo tona (bo bidiwang) Cape Province. Ka maiteko a go tlisa bokopano jwa batho mo lefelong le Aferika Borwa ka ngwaga wa 1910, o ne a bidiwa Cape Colony.
 
 ==Seemo Sa Bosa==
