@@ -13,9 +13,14 @@
 | subdivision_name1      = [[Gauteng]]
 | subdivision_type2      = Masepala
 | subdivision_name2      = [[City of Tshwane Metropolitan Municipality|Tshwane]]
-
+| area_footnotes          = <ref name=census2011>Main Place [http://census2011.adrianfrith.com/place/799012 Hammanskraal] ''Census 2011''.</ref>
 | area_total_km2         = 7.60
+| population_footnotes    = <ref name=census2011 />
+| population_total        = 
+| population_as_of        = 2011
 
+<!-- demographics (section 1) -->
+| demographics1_footnotes = <ref name=census2011 />
 | demographics_type1      = Ditlhopha tsa batho
 | demographics1_title1    = [[Bantsho]]
 | demographics1_info1     = 98.3%
@@ -28,6 +33,8 @@
 | demographics1_title5    = Ba bangwe
 | demographics1_info5     = 0.7%
 
+<!-- demographics (section 2) -->
+| demographics2_footnotes = <ref name=census2011 />
 | demographics_type2      = Maleme
 | demographics2_title1    = [[Setswana]]
 | demographics2_info1     = 46.2%
@@ -42,7 +49,6 @@
 
 | postal_code_type        = Nomoro ya poso
 | postal_code             = 0400
-
 | area_code_type          = Nomoro ya mogala
 | area_code               = 012
 | censuscode              = 799012
@@ -53,7 +59,6 @@
 Toporo e e na le marekelo a le mantsi, mme batho ba ba nnang mafelong a a bapileng ba tla go reka mo. Kekana Gardens, Kanana, Marokolong, Madela Village, Makapanstaad, Tladistad, ke mafelo a a mabapi le Hammanskraal. 
 
 Hammanskraal High School, Prestige College, Ratshepo High School, Mphe Batho Primary School, kedingwetsa dikolo tse di motoropong eya Hammanskraal.
-<!--
+
 ==Dipadi tse dingwe==
 {{reflist}}
--->
