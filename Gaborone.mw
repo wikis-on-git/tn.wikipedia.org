@@ -40,8 +40,8 @@
 |population_metro               = 421907
 |timezone                =  [[Central Africa Time]]
 |utc_offset              = +2
-| timezone_DST           = not observed
-| utc_offset_DST         = +2
+|timezone_DST            = not observed
+|utc_offset_DST          = +2
 |latd=24 |latm=39 |lats=29 |latNS=S
 |longd=25 |longm=54 |longs=44 | longEW=E|coordinates_display=d
 |elevation_footnotes     =<ref>{{cite web|url=http://www.fallingrain.com/world/BC/09/Gaborone.html|title=Gaborone, Botswana Page|publisher=Falling Rain Genomics, Inc.}}</ref>
@@ -50,12 +50,14 @@
 |area_code_type = [[Telephone numbers in Botswana|Geographical area code]]<ref>[http://www.timeanddate.com/worldclock/city.html?n=86 timeanddate.com]</ref><ref>{{Cite book | title =Botswana (country code +267)   | url =http://www.itu.int/dms_pub/itu-t/oth/02/02/T020200001C0001MSWE.doc| author=Botswana Telecommunications Authority|publisher=International Telecommunication Union | accessdate =27 December 2009|date=11 September 2009|format=DOC|work=National Numbering Plans|archiveurl=http://www.webcitation.org/5mKyF8Dce|archivedate=27 December 2009}}</ref>
 |area_code =3XX
 |iso_code = BW-SE
+<!-- twins DO NOT DISPLAY CORRECTLY..............................
 |twin1 = [[Burbank, California|Burbank]]
 |twin1_country = {{flag|United States}}
 |twin2 = [[Zhejiang|Zhejiang Province]]
 |twin2_country = {{flag|China}}
 |twin3 = [[Västerås]]
 |twin3_country = {{flag|Sweden}}
+........................................................-->
 |website = [http://www.gov.bw/en/Ministries--Authorities/Local-Authorities/Gaborone-City-Council/ Gaborone City Council Website]
 }} 
 
@@ -694,33 +696,15 @@ Gaborone o tshwantshangwa le toropo le kgaolo nngwe:
 |File:Embajada de Angola - Gaborone, Botswana.jpg|alt22=|Angola Embassy
 |File:Department of Taxes and Attorney General's Chambers Building.jpg}}
 
-== Dipadi tsa kwa: ==
-{{Reflist|2}}
+== Dipadi tsa kwa ==
+{{reflist|2}}
 
 == Dikgoge tsa kwa ntle ==
-<!--{{Sister project links|Gaborone|b=no|q=no|s=no|n=no|v=no}}-->
 * [http://www.mlg.gov.bw/PGContent.php?UID=388  Website ya khansele ya Gaborone]
 * {{Wikivoyage}}
 * [http://www.wikimapia.org/#lat=-24.6499815&amp;lon=25.9100533&amp;z=13&amp;l=0&amp;m=b Gaborone] Mmepe wa maranyana ko WikiMapia (not affiliated with Wikipedia/Wikimedia Foundation)
 * [http://www.britannica.com/EBchecked/topic/223198/Gaborone Gaborone] ''Matseno a Encyclopædia Britannica''  
 * [http://web.archive.org/web/20070317032557/http://www.botswanatourism.co.bw/maps/img/gabs_big.gif Mmepe ya Gaborone]
-
-<!-- Enable when templates when created
-{{Portal|Botswana}}
-{{Template group
-|title = Articles Related to Gaborone
-|list  =
-{{Botswana topics|state=expanded}}
-{{Template group
-|title = [[File:Gnome-globe.svg|25px]]{{nbsp}}Geographic locale
-|list  =
-'''[[Geographic coordinate system|Lat. <small>and</small> Long.]] {{Coord|24|39|29|S|25|54|44|E|display=inline}}'''
-}}
-{{South-East District}}
-{{Capitals of Districts of Botswana}}
-{{Botswana largest cities}}
-{{List of African capitals}}
-}}-->
 
 [[Category:Gaborone]]
 [[Category:Mafelo aa nang le batho mo Botswana]]
