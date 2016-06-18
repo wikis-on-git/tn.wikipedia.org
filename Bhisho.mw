@@ -8,7 +8,7 @@
 | longd                  = 27.4381
 
 | subdivision_type       = Naga
-| subdivision_name       = [[Aferika Borwa|Aforika Borwa]]
+| subdivision_name       = [[Aforika Borwa]]
 | subdivision_type1      = Profense
 | subdivision_name1      = [[Kapa Botlhaba]]
 | subdivision_type2      = Masepala
@@ -19,9 +19,9 @@
 | population_footnotes    = <ref name=census2011 />
 | population_total        = 11192
 | population_as_of        = 2011
-<!-- demographics (section 1) -->
+<!-- demographics 1 -->
 | demographics1_footnotes = <ref name=census2011 />
-| demographics_type1     = Ditlhopha tsa batho
+| demographics_type1      = Ditlhopha tsa batho
 | demographics1_title1    = [[Bantsho]]
 | demographics1_info1     = 98.3%
 | demographics1_title2    = [[MaKhalathi]]
@@ -33,7 +33,7 @@
 | demographics1_title5    = Ba bangwe
 | demographics1_info5     = 0.2%
 
-<!-- demographics (section 2) -->
+<!-- demographics 2 -->
 | demographics2_footnotes = <ref name=census2011 />
 | demographics_type2      = Maleme
 | demographics2_title1    = [[Sethosa]]
@@ -45,7 +45,6 @@
 
 | postal_code_type        = Nomoro ya poso
 | postal_code             = 0400
-
 | area_code_type          = Nomoro ya mogala
 | area_code               = 012 
 }}
