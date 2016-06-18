@@ -3,14 +3,14 @@
 {{Infobox settlement
 | name                           = Bokone Bophirima
 | native_name                    = Noord-Wes <span style="color:#aaa;font-size:12px">(Afrikaans)</span><br /> North West <span style="color:#aaa;font-size:12px">(Sekgoga)</span>
-| settlement_type                = [[Diprofense tsa Afrika Borwa|Profense ya Aforika Borwa]]
+| settlement_type                = [[Diprofense tsa Aforika Borwa|Profense ya Aforika Borwa]]
 | image_flag                     = ..North West Flag(SOUTH AFRICA).png
 | motto                          = ''Kagiso le Tswelelopele'' (Peace and Prosperity)
 | image_map                      = North West in South Africa.svg
 | map_alt                        = Mmepe wa Bokone Bophirima, ka bohibidu
 | map_caption                    = Mmepe o o bontshang profense ya Bokone Bophirima, Aferika Borwa
 | subdivision_type               = Naga
-| subdivision_name               = {{flagicon|ZAF}} [[Aferika Borwa|Aforika Borwa]]
+| subdivision_name               = {{flagicon|ZAF}} [[Aforika Borwa]]
 | established_title              = E Tlhamilwe
 | established_date               = 27 Moranang 1994
 | coordinates_region             = ZA
@@ -20,36 +20,31 @@
 | seat                           = [[Mahikeng]]
 | seat1                          = [[Rustenburg]]
 | seat1_type                     = Toropo-Kgolo
-| parts_type                     = [[Districts tsa Afrika Borwa|Dikarolwana]]
+| parts_type                     = [[Districts tsa Aforika Borwa|Dikarolwana]]
 | parts_style                    = coll
 | p1                             = [[Bojanala Platinum District Municipality|Bojanala Platinum]]
 | p2                             = [[Ngaka Modiri Molema District Municipality|Ngaka Modiri Molema]]
 | p3                             = [[Dr Ruth Segomotsi Mompati District Municipality|Dr Ruth Segomotsi Mompati]]
 | p4                             = [[Dr Kenneth Kaunda District Municipality|Dr Kenneth Kaunda]]
-| government_type                = [[Parliamentary system]]
+| government_type                = Parliamentary system
 | leader_title                   = Tonakgolo
-| leader_name                    = [[Supra Mahumapelo]]
+| leader_name                    = Supra Mahumapelo
 <!-- lefatshe ---------------------->
 | area_footnotes          = <ref name="cib2011">{{cite book |title=Census 2011: Census in brief |url=http://www.statssa.gov.za/Census2011/Products/Census_2011_Census_in_brief.pdf |publisher=Statistics South Africa |location=Pretoria |year=2012 |isbn=9780621413885}}</ref>{{rp|9}}
 | area_total_km2          = 104882
-|total_type               = Palo gotlhe
-
-<!-- elevation ----------------->
-| elevation_max_footnotes = <!-- for references: use<ref> tags -->
+| total_type              = Palo gotlhe
 | elevation_max_m         = 1805
-| elevation_min_footnotes = <!-- for references: use<ref> tags -->
-| elevation_min_m         =
 
 <!-- demographics (section 1) -->
 | demographics_type1      = Ditlhopha tsa Batho
 | demographics1_footnotes = <ref name="cib2011" />{{rp|21}}
-| demographics1_title1    = [[Batho Bantsho|Bantsho]]
+| demographics1_title1    = [[Bantsho]]
 | demographics1_info1     = 89.8%
-| demographics1_title2    = [[Batho Basweu|Basweu]]
+| demographics1_title2    = [[Basweu]]
 | demographics1_info2     = 7.3%
-| demographics1_title3    = [[Coloured]]
+| demographics1_title3    = [[MaKhalathi]]
 | demographics1_info3     = 2.0%
-| demographics1_title4    = [[Indian South African|Indian]] or [[Asian South African|Asian]]
+| demographics1_title4    = [[MaIndia]]
 | demographics1_info4     = 0.6%
 <!-- demographics (section 2) -->
 | demographics_type2      = Maleme
@@ -64,17 +59,15 @@
 | demographics2_info4     = 5.5%
 | demographics2_title5    = [[Setsonga]]
 | demographics2_info5     = 3.7%
-<!-- dikarolo tsa nako(s) -------------->
+
 | timezone1               = [[South African Standard Time|SAST]]
 | utc_offset1             = +2
-<!-- poso --->
 | iso_code                = ZA-NW
-<!-- website, footnotes -------->
 | website                 = [http://www.nwpg.gov.za/ www.NWPG.gov.za]
 | footnotes               =
  }}
 
-'''Bokone Bophirima''' ke nngwe ya [[Diprofense tsa Afrika Borwa|Diprofense tsa Aforika Borwa]]. Moshate wa yona ke [[Mahikeng]]. Profense e e supelwa bophirima ba [[Gauteng]]
+'''Bokone Bophirima''' ke nngwe ya [[Diprofense tsa Aforika Borwa]]. Moshate wa yona ke [[Mahikeng]]. Profense e e supelwa bophirima ba [[Gauteng]]
 
 == Histori ==
 Bokone Bophirima e ne ya tlhangwa mafelong a aparateiti ka ngwaga wa 1994, e akaretsa dikarolo tša kgale tša Porofinsi ya Transvaal le tša Porofinsi ya Kapa, le dikarola tša Bantustan ya [[Bophuthatswana]]. Go ne ga nna le dintwa le dikgotlhakgotlhano tša sepolotiki kwa Khutsong (Merafong City Local Municipality) ka ngwaga wa 2006 le wa 2007, morago ga gore di masepala tse di direlang diporofinsi tse fetang nngwe di tloswe, mme Masepala wa Merafong wa iswa Bokone Bophirima gotlhelele. Masepala wa Merafong o ne wa iswa porofenseng ya [[Gauteng]] ka ngwaga wa 2009.
@@ -220,7 +213,7 @@ Profinsi e na le palo e e kwa tlase go fetisa tsotlhe ya batho ba dingwaga dile 
 
 {{Bokone Bophirima}}
 <br />
-{{diPorofinsi mo Aferika Borwa}}
+{{Diporofinsi mo Aforika Borwa}}
 
 [[Category:Aferika Borwa]]
 [[Category:Diprofense tsa Aforika Borwa]]
