@@ -1,6 +1,8 @@
 {{Infobox settlement
 | name                    = Rustenburg
 | settlement_type         = Toropo
+| image_skyline           = Royal Bafokeng Stadium, Phokeng.jpg
+| image_caption           = Royal Bafokeng Stadium, Phokeng
 | pushpin_map             = North West
 | pushpin_map_caption     = Toropo ya Rustenburg, Bokone Bophirima
 | latd                    = -25.70
@@ -15,10 +17,13 @@
 | subdivision_type2       = [[Districts tsa Aforika Borwa|Karolwana]]
 | subdivision_name2       = [[Bojanala Platinum District Municipality|Bojanala]]
 
-| area_footnotes          = <ref name="c_2011"> {{URL|http://census2011.adrianfrith.com/place/662049}} </ref>
+| area_footnotes          = <ref name=census2011>[http://census2011.adrianfrith.com/place/662049 Rustenburg] ''Census 2011''</ref>
 | area_total_km2          = 282.42
+| population_footnotes    = <ref name=census2011 />
+| population_total        = 104612
+| population_as_of        = 2011
 
-| demographics_type1      = Ditlhopha tsa Batho <ref name="c_2011" />
+| demographics_type1      = Ditlhopha tsa Batho <ref name=census2011 />
 | demographics1_title1    = [[Bantsho]]
 | demographics1_info1     = 52.8%
 | demographics1_title2    = [[Basweu]]
@@ -30,7 +35,7 @@
 | demographics1_title5    = Babangwe
 | demographics1_info5     = 0.6%
 
-| demographics_type2      = Maleme <ref name="c_2011" />
+| demographics_type2      = Maleme <ref name=census2011 />
 | demographics2_title1    = [[Afrikaans]]
 | demographics2_info1     = 41.2%
 | demographics2_title2    = [[Setswana]]
