@@ -7,6 +7,15 @@
 <div style="font-size:162%; border:none; margin:0; padding:.1em; color:#000;"> Amogelesega mo [[Wikipedia]],</div>
 <div style="top:+0.2em; font-size:95%;"> [[Ensaetlolopedia]] ya [[mahala]] e [[Wikipedia:Introduction|mongwe le mongwe o ka e kwalang]].</div>
 <div id="articlecount" style="font-size:85%;">Go na le di [[Special:Allpages|article]] di le '''[[Special:statistics|{{NUMBEROFARTICLES}}]]'''.</div>
+<inputbox>
+type=create
+width=45
+break=no
+bgcolor=#f0f0f0
+buttonlabel=Aga/tsenya Setlhogo se Sesha
+searchbuttonlabel=Search
+</inputbox><div style="font-size:90%;">
+</div>
 |}
 <!--        PORTAL LIST ON RIGHT-HAND SIDE        -->
 | style="width:13%; font-size:95%;" |
