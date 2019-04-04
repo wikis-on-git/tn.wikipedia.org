@@ -120,18 +120,6 @@ Feel free to try your formatting and editing skills at the [[Wikipedia:Sandbox|S
 </div>
 
 <br>
-<div class="usermessage"><center>
-[[meta:List of articles all languages should have|List of articles all languages should have]]<br>
-[[Wikipedia:Vital articles|Vital articles (1000)]]<br>
-[[Wikipedia:Vital 100|Vital 100]]
-<center>
-<div style="width:90%;margin-top:.7em;border:1px solid gold;background:#cef2e0;padding:.7em;text-align:center"> 	 
-<big>'''[[{{CURRENTDAYNAME}}]] [[{{CURRENTDAY}} {{CURRENTMONTHNAME}}|{{CURRENTDAY}}]] [[{{CURRENTMONTHNAME}}]] [[{{CURRENTYEAR}}]]'''</big>
-* '''Article #{{NUMBEROFARTICLES}} :''' {{Special:Newpages/1}}
-</div>
-</center>
-</br>
-</center></div>
 
 {| width="100%" cellspacing="0" cellpadding="5" style="border:1px solid #006699;" 
 |-
