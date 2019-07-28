@@ -11,7 +11,7 @@
 | subdivision_name1       = [[KwaZulu-Natal]]
 | subdivision_type2       = [[Districts tsa Aforika Borwa|Karolwana]]
 | subdivision_name2       = [[Karolwana sa Amajuba|Amajuba]]
-| subdivision_type3       = Municipality
+| subdivision_type3       = Masepala
 | subdivision_name3       = [[Newcastle Local Municipality|Newcastle]]
 | established_title       = Established
 | established_date        = 1864<ref name=established>{{cite web|title=Chronological order of town establishment in South Africa based on Floyd (1960:20-26)|url=http://upetd.up.ac.za/thesis/available/etd-07212011-123414/unrestricted/05back.pdf|pages=xlv-lii}}</ref>
@@ -25,44 +25,39 @@
 | population_as_of        = 2011
 | population_density_km2  = auto
 <!-- demographics (section 1) -->
-| demographics_type1      = Racial makeup (2011)
-| demographics1_footnotes = <ref name="census2011" />
-| demographics1_title1    = [[Bantu peoples of South Africa|Black African]]
+| demographics1_footnotes = <ref name=census2011 />
+| demographics_type1      = Ditlhopha tsa batho
+| demographics1_title1    = [[Bantsho]]
 | demographics1_info1     = 51.9%
-| demographics1_title2    = [[Coloureds|Coloured]]
+| demographics1_title2    = [[MaKhalathi]]
 | demographics1_info2     = 3.8%
-| demographics1_title3    = [[Indian South African|Indian]]/[[Asian South African|Asian]]
+| demographics1_title3    = [[MaIndia]]
 | demographics1_info3     = 19.8%
-| demographics1_title4    = [[White South African|White]]
+| demographics1_title4    = [[Basweu]]
 | demographics1_info4     = 23.6%
-| demographics1_title5    = Other
+| demographics1_title5    = Ba bangwe
 | demographics1_info5     = 0.9%
 <!-- demographics (section 2) -->
-| demographics_type2      = [[First language]]s (2011)
+| demographics_type2      = Maleme (2011)
 | demographics2_footnotes = <ref name="census2011" />
-| demographics2_title1    = [[Zulu language|Zulu]]
+| demographics2_title1    = [[Sezulu]]
 | demographics2_info1     = 37.4%
-| demographics2_title2    = [[South African English|English]]
+| demographics2_title2    = [[Sekgoga]]
 | demographics2_info2     = 35.4%
 | demographics2_title3    = [[Afrikaans]]
 | demographics2_info3     = 20.7%
-| demographics2_title4    = [[Sotho language|Sotho]]
+| demographics2_title4    = [[Sesotho]]
 | demographics2_info4     = 1.0%
-| demographics2_title5    = Other
+| demographics2_title5    = Ba bangwe
 | demographics2_info5     = 5.5%
-<!-- blank fields (section 2) -->
 <!-- Other information -->
-| timezone1               = SAST
-| utc_offset1             = +2
-| postal_code_type        = Postal code (street)
+| postal_code_type        = Nomoro ya poso
 | postal_code             = 2940
-| postal2_code_type       = PO box
-| postal2_code            = 2940
-| area_code_type          = Area code
+| area_code_type          = Nomoro ya mogala
 | area_code               = 034
 | website                 = http://www.newcastle.gov.za/
 }}
-'''Newcastle''' ke setoropo sa [[KwaZulu-Natal]], mo [[Aforika Borwa]].
+'''Newcastle''' ke setoropo sekgolo sa [[KwaZulu-Natal]], mo [[Aforika Borwa]].
 
 ==Dikgoge tsa kwa ntle==
 {{reflist}}
