@@ -16,7 +16,7 @@
 
 | seat                    = [[Klerksdorp]]
 | seat_type               = Setulo
-| parts_type              = [[Dimasepala tsa Selegae|Dimasepala tsa Selegae]]
+| parts_type              = Dimasepala tsa Selegae
 | parts                   = 
 | p1                      = [[Ventersdorp Local Municipality|Ventersdorp]]
 | p2                      = [[Tlokwe Local Municipality|Tlokwe]]
@@ -33,13 +33,13 @@
 <!-- merafe ya batho -->
 | demographics1_footnotes  = <ref name"demographics_1">{{cite web|url=http://www.statssa.gov.za/?page_id=964|title=Statistics By Place|publisher=Statistics South Africa.|accessdate=27 September 2015}} </ref>
 | demographics_type1       = Ditlhopha tsa Batho (2011)
-| demographics1_title1     = [[Batho Bantsho|Bantsho]]
+| demographics1_title1     = [[Bantsho]]
 | demographics1_info1      = 80.3%
-| demographics1_title2     = [[Batho Basweu|Basweu]]
+| demographics1_title2     = [[Basweu]]
 | demographics1_info2      = 14.5%
-| demographics1_title3     = [[Coloured]]
+| demographics1_title3     = [[MaKhalathi]]
 | demographics1_info3      = 4.1%
-| demographics1_title4     = [[Indian/Asian]]
+| demographics1_title4     = [[MaIndia]]
 | demographics1_info4      = 0.7%
 
 <!-- maleme -->
@@ -47,22 +47,20 @@
 | demographics_type2       = Maleme a pele
 | demographics2_title1     = [[Setswana]]
 | demographics2_info1      = 44.8%
-| demographics2_title2     = [[Xhosa]]
+| demographics2_title2     = [[Sethosa]]
 | demographics2_info2      = 11.5%
 | demographics2_title3     = [[Afrikaans]]
 | demographics2_info3      = 18.4%
-| demographics2_title4     = [[Sotho]]
+| demographics2_title4     = [[Sesotho]]
 | demographics2_info4      = 15.3%;
 | demographics2_title5     = Amangwe
 | demographics2_info5      = 10%
 
-<!-- nako le internete -->
+<!-- nako -->
 | timezone1               = [[South African Standard Time|SAST]]
 | utc_offset1             = +2
-
 | blank_name_sec1         = Nomoro ya Masepala
 | blank_info_sec1         = DC40
-
 }}
 
 ==Lefatshe==
