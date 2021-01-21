@@ -17,18 +17,21 @@
 | subdivision_type2  = Masepala
 | subdivision_name2  = [[Moretele Local Municipality|Moretele]]
 
-| area_footnotes     = <ref name="t_data">www.adrianfith.com (Data from Census 2011), {{URL|http://census2011.adrianfrith.com/place/660031}}</ref>
+| area_footnotes     = <ref name="census2011">Data from Census 2011 {{URL|http://census2011.adrianfrith.com/place/660031}}</ref>
 | area_total_km2     = 3.3 
 | total_type         = Palo gotlhe
+| population_footnotes    = <ref name="census2011" />
+| population_total        = 3007
+| population_as_of        = 2011
 
-| demographics_type1 = Ditlhopha tsa Batho
+| demographics_type1     = Ditlhopha tsa Batho
 | demographics1_title1   = [[Bantsho]]
 | demographics1_info1    = 99.9%
 | demographics1_title2   = [[Basweu]]
 | demographics1_info2    = 0.3%
-| demographics1_title3   = [[Indian]]/[[Asian]]
+| demographics1_title3   = Indian/Asian
 | demographics1_info3    = 0.3%
-| demographics1_footnotes = <ref name="t_data" />
+| demographics1_footnotes = <ref name="census2011" />
 
 | demographics_type2   = Maleme
 | demographics2_title1 = [[Setswana]]
