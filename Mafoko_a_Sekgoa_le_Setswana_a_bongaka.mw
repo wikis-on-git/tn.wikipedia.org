@@ -77,7 +77,7 @@
 |Bosusu
 |Deafness
 |----
-|Boswa
+|Boswa, Kuduga
 |Tumor
 |----
 |Botlhoko mo maleng
@@ -128,7 +128,7 @@
 |Go anyisa ka lebotlele
 |Bottle feed
 |----
-|Go anywa
+|Go anya
 |(To) suck
 |----
 |Go belega
@@ -167,7 +167,7 @@
 |Go hema mo go sa siamang/tlwaelesegang
 |Abnormal breathing
 |----
-|Go huhula bosigo
+|Go huhula/fufula bosigo
 |Nightsweats
 |----
 |Go hupela(go hupetsa mowa)
@@ -260,16 +260,16 @@
 |Go swa mhama
 |Brain stroke
 |----
-|Go swa mhama
+|Go swa mhama/mohama
 |Stroke
 |----
-|Go swa mhama, go swa karolo
+|Go swa mhama/mohama, go swa karolo
 |Paralysis
 |----
 |Go thebetha, go gonega mosifa
 |Spasm
 |----
-|Go thubetsa
+|Go thubetsa, Go betelela
 |Rape
 |----
 |Go tla ka maoto ga ngwana
@@ -287,7 +287,7 @@
 |Go tlhoma,go tsenya
 |Induction
 |----
-|Go tlhorega boroko
+|Go tlhorega boroko, Go tlhobaela
 |Insomnia
 |----
 |Go tlolwa ke dikgwedi
@@ -341,10 +341,10 @@
 |Karalala, kwatlalala, gagamala
 |Stiff
 |----
-|Keledi or go kgagola
+|Keledi or go gagola/gagoga
 |Tear
 |----
-|Keletso ya dijo
+|Go tlhoka keletso ya dijo
 |Loss of Appetite
 |----
 |Kemiso (emisa)-go phepahatsa ka botlalo
@@ -398,16 +398,16 @@
 |Kidibalo e e tseneletseng
 |Coma
 |----
-|Komelelo ya mala
+|Komelelo ya mala, Go ngakiwa
 |Constipation
 |----
 |Kotla ya folic acid
 |Folic acid
 |----
-|Madi a a kwa godimo
+|Kgatelelo ya madi e e kwa godimo
 |Blood pressure High
 |----
-|Madi a a kwa tlase
+|Kgatelelo ya madi e e kwa tlase
 |Blood pressure Low
 |----
 |Kwa tlase
@@ -443,7 +443,7 @@
 |Legwejane(lenyenyana-side of malleoli)
 |Ankle
 |----
-|Leina la gago ke mang
+|Leina (la gago, la ngwana wa gago) ke mang
 |What is (your, the child’s) name
 |----
 |Leino
@@ -560,7 +560,7 @@
 |Mafatlha a a tshwanang
 |Identical twins
 |----
-|Maikutlo a thobalano
+|Go tlhoka maikutlo a thobalano
 |Loss of Libido
 |----
 |Makgwafo
@@ -605,7 +605,7 @@
 |Mmelegisi
 |Midwife
 |----
-|Mo go sa tlwaelesegang
+|Go betsa ga pelo mo go sa tlwaelesegang
 |Heartbeat Irregular
 |----
 |Mofikela,serame
@@ -641,7 +641,7 @@
 |Mokwatla
 |Spine
 |----
-|Molala
+|Molala, Thamo
 |Neck
 |----
 |Molemo wa kidibatso/o o robatsang
@@ -656,16 +656,16 @@
 |Mometso
 |Esophagus
 |----
-|Mometso
+|Mometso, Kgokgotso
 |Throat
 |----
 |Mongopo:kutukwe
 |Rectum
 |----
-|Monwana wa kgonope
+|Monwana wa kgonope/kgonojwe
 |Thumb
 |----
-|Monwana wa maoto
+|Monwana
 |Finger
 |----
 |Monwana wa maoto
@@ -707,7 +707,7 @@
 |Motseto
 |Sanitary napkins
 |----
-|Motwane
+|Motwane, Momo
 |Shin
 |----
 |Mowa mo mpeng
@@ -731,10 +731,10 @@
 |Letshogo (n.)
 |Shock
 |----
-|Lotlhatso (n.), tlhatsa (v.)/ kgwa
+|Lotlhatso, Letlhatsa (n.), tlhatsa (v.)/ kgwa
 |Vomit
 |----
-|Ngwaya; kgwarinya (n.); ngapa v, go ingwaya
+|Ngwaya; kgwarinya (n.); ngapa v, go ingwaya/ingapa
 |Scratch
 |----
 |Seromo, ntho, seso (n.)
@@ -755,7 +755,7 @@
 |Ngati:marakana mantsi
 |Pancreas
 |----
-|Ngwana wa ngwana
+|Ngwana wa ngwana, Setlogolwana
 |Grandson
 |----
 |Ngwana yo o mo popelong
@@ -770,7 +770,7 @@
 |Nko
 |Nose
 |----
-|Nkuku
+|Nkuku, Nkoko
 |Grandmother
 |----
 |Nnyaa (nnyaa, mma; female/ nnyaa, rra; male)
@@ -791,16 +791,16 @@
 |Ntlwana ya pelegi
 |Delivery room
 |----
-|Ntsalake
-|Female cousin
+|Ntsala (Ntsalake) 
+|Female cousin (My female cousin)
 |----
-|Ntsalake
-|Male cousin
+|Ntsala (Ntsalake) 
+|Male cousin (My male cousin)
 |----
-|O ya go nna moimana
+|Go nona go go feteletseng
 |Obese
 |----
-|Pabego, adj., go baba
+|Pabego, adj., go baba, go babelwa
 |Itch
 |----
 |Palo ya masole a mmele
@@ -836,16 +836,16 @@
 |Phatla
 |Forehead
 |----
-|Phatlha ya marago
+|Phatlha ya marago, Mosono
 |Anus
 |----
-|Pherego ya sebete, khidikego, mosetlego
+|Pherogo ya sebete, khidikego, mosetlego
 |Nausea
 |----
 |Pherogo ya sebete
 |Nausea
 |----
-|Phese
+|Phese, Dipounama tsa kwa tlase
 |Labia
 |----
 |Philo
@@ -869,7 +869,7 @@
 |Pounama:molomo
 |Lip
 |----
-|Rakagadi
+|Rakgadi
 |Aunt
 |----
 |Santlhokwe
@@ -956,13 +956,13 @@
 |Thibamo, kgotlholo e tona
 |Tuberculosis
 |----
-|Thibelo ya boimana
+|Thibelo ya boimana, Thibelapelegi
 |Contraception
 |----
-|Thoba
+|Thoba, Tlhoko
 |Nipple
 |----
-|Thoba e e tlhanogileng
+|Thoba, Tlhoko e e tlhanogileng
 |Inverted nipple
 |----
 |Thurugo/boruruso(go ruruga)
@@ -974,10 +974,10 @@
 |Tlhagala,phologolo,sebola
 |Abscess
 |----
-|Tlhakanelo dikobo
+|Tlhakanelo dikobo, Thobalano
 |Sexual intercourse
 |----
-|Tlhatlhobe ya APGAR
+|Tlhatlhobo ya APGAR
 |APGAR test
 |----
 |Tlhatlhobo ya boimana
@@ -1034,7 +1034,7 @@
 |Tsipoga
 |Sprain
 |----
-|Tutma ya mabele
+|Tutuma ya mabele
 |Mastitis, breast infection
 |----
 |Tutuma ya kgokgotso
