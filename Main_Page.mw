@@ -81,7 +81,29 @@ searchbuttonlabel=Search
 <!--        SECTIONS AT BOTTOM OF PAGE        -->
 <div id="mp-sister">
 == Wikipedia's sister projects ==
-{{Wikipedia's sister projects}}
+<div class="plainlinks">
+{| align="center" cellpadding="2" width="95%" style="background-color:transparent"
+|- 
+|colspan=3| '''Wikipedia''' e kwalwa ke baitlhaopi gape e butswe ke komponi e e sa duelweng [[Wikimedia:|Wikimedia Foundation]], ye gape e butseng tse dingwe [[w:Wikipedia:Multilingual coordination|multilingual]] le [[w:Wikipedia:Copyrights|Dipapadi tsa mahala]] tsa baitlhaopi:
+|- valign="top"
+| [[File:Wikinews-logo.svg|30px|link=w:|Wikipedia]] [[w:|'''Wikinews''']]&nbsp;&ndash; Wiki ya dikgang
+| [[File:MediaWiki-2020-icon.svg|30px|link=mw:|MediaWiki]] [[mw:|'''MediaWiki''']]&nbsp;&ndash; Wiki e e dirang marinyane
+| [[File:Wikimedia Community Logo.svg|30px|link=m:|Meta-Wiki]] [[m:|'''Meta-Wiki''']]&nbsp;&ndash; Coordination
+|-
+| [[File:Commons-logo.svg|30px|link=commons:|Commons]] [[commons:|'''Commons''']]&nbsp;&ndash; Media repository
+| [[File:Wikibooks-logo.svg|30px|link=b:|Wikibooks]] [[b:|'''Wikibooks''']]&nbsp;&ndash; Dibukatsamokwalo
+| [[File:wikidata-logo.svg|30px|link=d:|Wikidata]] [[d:|'''Wikidata''']]&nbsp;&ndash; Motswedi wa kitso
+|-
+| [[File:Wikiquote-logo.svg|30px|link=q:|Wikiquote]] [[q:|'''Wikiquote''']]&nbsp;&ndash; Dikotasine
+| [[File:Wikisource-logo.svg|30px|link=s:|Wikisource]] [[s:|'''Wikisource''']]&nbsp;&ndash; Sources
+| [[File:Wikispecies-logo.svg|30px|link=wikispecies:|Wikispecies]] [[wikispecies:|'''Wikispecies''']]&nbsp;&ndash; Species
+|-
+| [[File:Wikiversity logo 2017.svg|30px|link=v:|Wikiversity]] [[v:|'''Wikiversity''']]&nbsp;&ndash; Ditlamelo tsa go ithuta
+| [[File:Wikivoyage-Logo-v3-icon.svg|30px|link=voy:|Wikivoyage]] [[voy:|'''Wikivoyage''']]&nbsp;&ndash; Thuso Ka go tsamaya
+| [[File:Wiktionary-logo-v2.svg|30px|link=wikt:|Wiktionary]] [[wikt:|'''Wiktionary''']]&nbsp;&ndash; Dictionary
+|-
+|}
+</div><noinclude>[[Category:Main page templates|Sisterprojects]]</noinclude>
 </div><div id="mp-lang">
 == Dipuo ==
 {{Wikipedia/Dipuo}}
