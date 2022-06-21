@@ -1,0 +1,81 @@
+__NOEDITSECTION__
+<!------------------------------------ TOP PART ------------------------------------------>
+<templatestyles src="Wikipedia:Main Page/styles.css" />
+{|style="margin:0px 0px 0px 0px; background:none;"
+|class="MainPageBG" style="width:10%; border:3px solid #ffe2e2; background:white; vertical-align:top; color:#000;"|
+<div style="float: left; width: 0em; height: 0em; margin: -0.5em 0em 0em -2.5em; overflow: visiable;">[[File:Wikipedia-logo-v2-200px-transparent.png|200px|link=]]</div>
+{|width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top; background:white;"
+|style="color:#000;"|<h1 style="text-align: left; font-size: 200%; font-family:'hoeflr text','times new roman', serif;  font-variant: small-caps; border: none; margin: 1; padding: 1;">Amogelesega mo Wikipedia ya Setswana</h1>
+<div class="center"><small>{{CURRENTMONTHNAME}} {{CURRENTDAY}}, {{CURRENTYEAR}} wikipedia ya setswana</small></div>
+[[Category:Template]] 
+----
+Wikipedia ya Setswana e nale ditsebe di le [[Special:statistics|{{NUMBEROFARTICLES}}]] le wena o kgona go kwala, go simolola se o batlang go se kwala, kwala setlhogo sa se o batlang go kwala ka sone ka fatlase o bo o tobetsa '''Bula tsebe'''.
+|- 
+|Colspan="2" style="text-align:left;"|
+<div style="text-align: center; font-size: 100%;">
+
+<inputbox>
+ <inputbox>
+type=create
+width=45
+break=no
+bgcolor=#f0f0f0
+buttonlabel=Bula tsebe
+searchbuttonlabel=Search
+</inputbox>
+</div>
+<div>
+<div style="clear: both; border: 2px solid #ffe2e2; margin: 0em; background-color: #fff5f5; padding-bottom: 0.5em;">
+<div style="text-align: left; font-size: 150%; font-family:'hoeflr text','times new roman', serif;  font-variant: small-caps; border: none; margin: 1; padding: 1; style="background: #ffe2e2; padding-top: 0.1em; padding-bottom: 0.1em; text-align: left; font-size: medium; width: 100%">'''Dikgang tsa bofelelo'''</div>
+</div>
+</div>
+
+Komponi ye e gasang dikgang e e tlwaelese ka leina la BBC e kopile maitswarelo morago ga mokwalo “Manchester are rubbish" o bonale mo sesupa ditswantsho tsa motshikinyego
+</div>
+Komponi ye e gasang dikgang e e tlwaelesegileng ka leina la BBC ka labobedi morago ga mokwalo o o reng “Manchester United are rubbish" o bonale mo sesupa ditswantsho tsa motshikinyego ba i kupile maitswarelo Ka labobedi morago ga mokwalo oo.
+
+Mmega dikgang Annita McVeigh o thalositse fa mokwalo o o bonetseng ka pego ya dikgang tsa motshameko wa tennis e ne ele ka lebaka la moithuti a ithuta go tsenya mekwalo mo sesupa ditswantsho tsa motshikinyego, Ka jaalo o ne a kwala sengwele sengwe fela se se gaufi.
+
+<div style="clear: both; border: 2px solid #ffe2e2; margin: 0em; background-color: #fff5f5; padding-bottom: 0.5em;">
+<div style="text-align: left; font-size: 150%; font-family:'hoeflr text','times new roman', serif;  font-variant: small-caps; border: none; margin: 1; padding: 1; style="background: #ffe2e2; padding-top: 0.1em; padding-bottom: 0.1em; text-align: left; font-size: medium; width: 100%">'''Dikgang tse di kwadilweng'''</div>
+</div>
+</div>
+
+Go ya ka tsa boitsanape ngwana kgotsa bana fa bale mokawana: tota fela go tewa motho yo o fa gare ga dipaka tsa go belegwa le go tsena mo seemong sa go nna rre kgotsa mme. Dingwe tsa ditemeditlhalosa ngwana go simolola fa a ise a belegwe. Tlhaloso ya ngwana e e ka fa molao e tlhalosa fa "ngwana" e le motho yo mopotlana, fa gongwe lebilwe dingwaga "Ngwana" fa gongwe o ka tlhalosa tomagano le motsadi kgotsa selthopha sa batho mo go ka bitswang gotwe ke lekgotla kgotsa tumelo; gape o ka kaya go amiwa thata ke dinako dingwe, mafelo, kgotsa dikgwetlho.
+
+Lekgotla la ditshaba la United Nations mo kwatlabolotsong ya ditshwanelo tsa ngwana e tlhalosa fa ngwana e le "motho yo dingwaga tse di ka fa tlase ga lesome le boferabobedi kgotsa fa e le sengwe Molao o tshwanetse wa amangwa le ngwana". Se se letleletswe ke mafatshe a le 192 mo go a le 194 a e leng maloko. Ditlhaloso gingwe tsa teme ya seja tlhapi e ditlhalosa lefoko "ngwana" go simolola fa a setse a sa belegwa. Ka tsa boitsanape ngwana ke mongwe le mongwe yo a fagare ga paka ya go belegwa le go gola kgotsa mongwe yo o mo pakeng ya go gola ya bongwana. Bana bana le ditshwanelo tsa palo e ko tlase gona le bagolo ka gore go lemogiwa ga ba sena maikarabelo a go tsaya ditshwetso tse di rileng, gape ba tshwanetse gore ka nako tsotlhe ba bo bale ka fa tlase ga tlhokomelo ya mogolo yo o nang le boikarabelo. 
+
+<div style="clear: both; border: 2px solid #ffe2e2; margin: 0em; background-color: #fff5f5; padding-bottom: 0.5em;">
+<div style="text-align: left; border: none; margin: 1; padding: 1; style="background: #ffe2e2; padding-top: 0.1em; padding-bottom: 0.1em; text-align: left; font-size: medium; width: 100%">
+<!--        SECTIONS AT BOTTOM OF PAGE        -->
+<div id="mp-sister">
+<div class="plainlinks">
+{| align="center" cellpadding="2" width="95%" style="background-color:transparent"
+|- 
+|colspan=3| '''Wikipedia''' e kwalwa ke baitlhaopi gape e butswe ke komponi e e sa duelweng [[Wikimedia:|Wikimedia Foundation]], ye gape e butseng tse dingwe [[w:Wikipedia:Multilingual coordination|multilingual]] le [[w:Wikipedia:Copyrights|Dipapadi tsa mahala]] tsa baitlhaopi:
+|- valign="top"
+| [[File:Wikinews-logo.svg|30px|link=w:|Wikipedia]] [[w:|'''Wikinews''']]&nbsp;&ndash; Wiki ya dikgang
+| [[File:MediaWiki-2020-icon.svg|30px|link=mw:|MediaWiki]] [[mw:|'''MediaWiki''']]&nbsp;&ndash; Wiki e e dirang marinyane
+| [[File:Wikimedia Community Logo.svg|30px|link=m:|Meta-Wiki]] [[m:|'''Meta-Wiki''']]&nbsp;&ndash; Coordination
+|-
+| [[File:Commons-logo.svg|30px|link=commons:|Commons]] [[commons:|'''Commons''']]&nbsp;&ndash; Media repository
+| [[File:Wikibooks-logo.svg|30px|link=b:|Wikibooks]] [[b:|'''Wikibooks''']]&nbsp;&ndash; Dibukatsamokwalo
+| [[File:wikidata-logo.svg|30px|link=d:|Wikidata]] [[d:|'''Wikidata''']]&nbsp;&ndash; Motswedi wa kitso
+|-
+| [[File:Wikiquote-logo.svg|30px|link=q:|Wikiquote]] [[q:|'''Wikiquote''']]&nbsp;&ndash; Dikotasine
+| [[File:Wikisource-logo.svg|30px|link=s:|Wikisource]] [[s:|'''Wikisource''']]&nbsp;&ndash; Sources
+| [[File:Wikispecies-logo.svg|30px|link=wikispecies:|Wikispecies]] [[wikispecies:|'''Wikispecies''']]&nbsp;&ndash; Species
+|-
+| [[File:Wikiversity logo 2017.svg|30px|link=v:|Wikiversity]] [[v:|'''Wikiversity''']]&nbsp;&ndash; Ditlamelo tsa go ithuta
+| [[File:Wikivoyage-Logo-v3-icon.svg|30px|link=voy:|Wikivoyage]] [[voy:|'''Wikivoyage''']]&nbsp;&ndash; Thuso Ka go tsamaya
+| [[File:Wiktionary-logo-v2.svg|30px|link=wikt:|Wiktionary]] [[wikt:|'''Wiktionary''']]&nbsp;&ndash; Dictionary</div>
+|-
+|}
+|}
+Wikipedia e teng ka diteme tse dingwe
+[[:af:|Afrikaans]] - [[:ar:|‮العربية‬ (Araby)]] -  [[:de:|Deutsch]] -[[:el:|Ελληνικά (Ellenika)]] -  [[:en:|English]] - [[:gu:|ગુજરાતી]] - [[:he:|עברית (Ivrit)]] - [[:hi:|हिन्दी (Hindi)]] - [[:pt:|Português]] -
+[[:sa:|संस्कृतम् (Saṃskṛtam)]] - [[:ss:|SiSwati]] - [[:ta:|தமிழ் (Tamiḻ)]] -
+[[:te:|తెలుగు (Telugu)]] - [[:ts:|Xitsonga]] -
+[[:ur:|اردو (Urdū)]] - [[:ve:|Tshivenda]] - [[:xh:|isiXhosa]] -
+[[:zu:|isiZulu]]  -
+[[:nso:|Sepedi]]
