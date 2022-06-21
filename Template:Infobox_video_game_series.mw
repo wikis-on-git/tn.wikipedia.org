@@ -1,0 +1,45 @@
+{{main other|{{short description|2=noreplace|Video game series}}}}{{Infobox
+| child          = {{{child|}}}
+| subbox         = {{{subbox|}}}
+| italic title   = {{{italic title|<noinclude>no</noinclude>}}}
+| bodystyle      = float: {{{align|right}}}; width: {{#if:{{{width|}}}|{{{width|}}}|22em}}; border-spacing: 2px;
+| bodyclass      = {{#ifeq:{{{collapsible|}}}|yes|collapsible {{#if:{{{state|}}}|{{{state}}}|autocollapse}}}} hproduct
+
+| aboveclass     = fn
+| abovestyle     = font-size:125%;font-style:italic;
+| above          = {{{title|<includeonly>{{PAGENAMEBASE}}</includeonly>}}}
+
+| image          = {{#invoke:InfoboxImage|InfoboxImage|image={{{image|}}}|size={{{image_size|}}}|sizedefault=frameless|upright=1.15|alt={{{alt|}}}}}
+
+| caption        = {{{caption|}}}
+
+| labelstyle    = white-space:nowrap;padding-right:0.65em<!--(to ensure gap between any long/nonwrapped label and subsequent data on same line-->;
+
+| label1       = [[Video game genre|Genre(s)]]
+| data1        = {{{genre|}}}
+| label2       = [[Video game developer|Developer(s)]]
+| data2        = {{{developer|}}}
+| label3       = [[Video game publisher|Publisher(s)]]
+| data3        = {{{publisher|}}}
+| label4       = Creator(s)
+| data4        = {{{creator|}}}
+| label5       = [[Video game artist|Artist(s)]]
+| data5        = {{{artist|}}}
+| label6       = [[Video game writer|Writer(s)]]
+| data6        = {{{writer|}}}
+| label7       = [[Video game music|Composer(s)]]
+| data7        = {{{composer|}}}
+| label8       = Platform(s)
+| data8        = {{{platforms|}}}
+| label9       = Original release
+| data9        = {{{released|{{{release|}}}}}}
+| label10      = First release
+| data10       = {{{first release version|}}}{{#if:{{{first release date|}}}|{{#if:{{{first release version|}}}|<br />}}{{{first release date}}}}}
+| label11      = Latest release
+| data11       = {{{latest release version|}}}{{#if:{{{latest release date|}}}|{{#if:{{{latest release version|}}}|<br />}}{{{latest release date}}}}}
+| label12      = Parent series
+| data12       = {{{parent|}}}
+| label13      = [[Spin-off (media)|Spin-offs]]
+| data13       = {{{spinoffs|}}}
+
+}}{{#invoke:Check for unknown parameters|check|unknown={{main other|[[Category:Pages using infobox video game series with unknown parameters|_VALUE_{{PAGENAME}}]]}}|preview=Page using [[Template:Infobox video game series]] with unknown parameter "_VALUE_"| align | alt | artist | caption | collapsible | composer | creator | developer | first release date | first release version | genre | image | image_size | italic title | latest release date | latest release version | platforms | publisher | release | released | parent | spinoffs | state | title | width | writer | child | subbox }}<noinclude>{{documentation}}<!-- Add cats and interwikis to the /doc subpage, not here! --></noinclude>
