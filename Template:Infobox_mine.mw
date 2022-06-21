@@ -1,0 +1,74 @@
+{{Infobox
+| bodyclass  = vcard
+| title      = {{{name|<includeonly>{{PAGENAMEBASE}}</includeonly>}}}
+| titleclass = fn org
+| image      = {{#invoke:InfoboxImage|InfoboxImage|image={{{image|}}}|size={{{width|}}}|sizedefault=frameless|alt={{{alt|}}}}}
+| caption    = {{{caption|}}}
+| basestyle  = background-color: #c0c0c0
+
+| header1    = {{#if:{{{location|}}}{{{place|}}}{{{state/province|}}}{{{country|}}}|Location}}
+
+| data2      = {{#if:{{{pushpin_map|}}}|
+{{ location map|{{{pushpin_map|}}}
+| label          = {{#ifeq: {{lc: {{{pushpin_label_position|}}} }} | none | | {{#if:{{{pushpin_label|}}}|{{{pushpin_label}}}|{{#if:{{{name|}}}|{{{name}}}|{{{official_name|}}}}}}} }}
+| alt            = {{{pushpin_map_alt|}}}
+| coordinates    = {{{coordinates|}}}
+| mark           = Schlaegel und Eisen nach DIN 21800.svg
+| marksize       = 12
+| float          = center
+| caption        = {{{pushpin_map_caption|{{{map_caption|}}} }}}
+| border         = infobox
+| position       = {{{pushpin_label_position|}}}
+| width          = {{#if:{{{pushpin_mapsize|}}}|{{{pushpin_mapsize|}}} | 220 }}
+| AlternativeMap = {{{pushpin_image|}}}
+}}
+
+}}
+
+| label3     = Location
+| data3      = {{{place|}}}
+| class3     = label
+| label4     = {{{subdivision_type}}}
+| data4      = {{{state/province|}}}
+| label5     = Country
+| data5      = {{{country|}}}
+| label6     = Coordinates
+| data6      = {{#if:{{{coordinates|}}}|{{#invoke:Coordinates|coordinsert|{{{coordinates|}}}|type:landmark|{{#if:{{{country|}}}|region:{{Country abbreviation|{{{country}}}|{{{state/province|}}}}}}}}}|}}
+
+| header20   = {{#if:{{{products|}}}{{{amount|}}}{{{type|}}}{{{financial year|}}}|Production}}
+| label21    = Products
+| data21     = {{{products|}}}
+| class21    = category
+| label22    = Production
+| data22     = {{{amount|}}}
+| label23    = Financial year
+| data23     = {{{financial year|}}}
+| label24    = Type
+| data24     = {{{type|}}}
+| class24    = category
+| label25    = Greatest depth
+| data25     = {{{greatest depth|}}}
+
+| header30   = {{#if:{{{discovery year|}}}{{{opening year|}}}{{{active years|}}}{{{closing year|}}}|History}}
+| label31    = Discovered
+| data31     = {{{discovery year|}}}
+| label32    = Opened
+| data32     = {{{opening year|}}}
+| label33    = Active
+| data33     = {{{active years|}}}
+| label34    = Closed
+| data34     = {{{closing year|}}}
+
+| header40   = {{#if:{{{owner|}}}{{{official website|}}}{{{acquisition year|}}}|Owner}}
+| label41    = Company
+| data41     = {{{owner|}}}
+| label42    = Website
+| data42     = {{{official website|}}}
+| label43    = Year of acquisition
+| data43     = {{{acquisition year|}}}
+
+| data51     = {{{nrhp|{{{embedded|{{{module|}}}}}}}}}
+
+}}{{#invoke:Check for unknown parameters|check|unknown={{main other|[[Category:Pages using infobox mine with unknown parameters|_VALUE_{{PAGENAME}}]]}}|preview=Page using [[Template:Infobox mine]] with unknown parameter "_VALUE_"|ignoreblank=y| acquisition year | active years | alt | amount | caption | closing year | coordinates | country | discovery year | embedded | financial year | greatest depth | image | location | map_caption | module | name | nrhp | official website | official_name | opening year | owner | place | products | pushpin_image | pushpin_label | pushpin_label_position | pushpin_map | pushpin_map_alt | pushpin_map_caption | pushpin_mapsize | state/province | subdivision_type | type | width }}<noinclude>
+{{documentation}}<!-- PLEASE ADD CATEGORIES TO THE /doc SUBPAGE, THANKS -->
+</noinclude>
