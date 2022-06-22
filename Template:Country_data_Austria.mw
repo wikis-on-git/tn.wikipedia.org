@@ -1,0 +1,27 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Austria
+| flag alias = Flag of Austria.svg
+| flag alias-empire = Flag of the Habsburg Monarchy.svg
+| flag alias-state = Flag of Austria (state).svg
+| flag alias-war  = Austria-Hungary-flag-1869-1914-naval-1786-1869-merchant.svg
+| flag alias-army = Flag of Austria (state).svg
+| flag alias-air force = Flag of Austria (state).svg
+| link alias-army = Austrian Land Forces
+| flag alias-naval = Flag of Austria (state).svg
+| link alias-naval = Austrian Navy
+| link alias-air force = Austrian Air Force
+| flag alias-navy = Flag of Austria (state).svg
+| link alias-navy = Austrian Navy
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+<noinclude>
+| var1 = empire
+| var2 = state
+| var3 = war
+| redir1 = AUT
+| redir2 = Archduchy of Austria
+| related1 = Austria-Hungary
+</noinclude>
+}}
