@@ -1,0 +1,16 @@
+<onlyinclude><small>{{#switch: {{{2}}}
+ |IPA=IPA:&#32;
+ |lang=German:&#32;
+ |at=Austrian German pronunciation:&#32;
+ |langat=Austrian German:&#32;
+ |ch=Swiss Standard German pronunciation:&#32;
+ |langch=Swiss Standard German:&#32;
+ |pron=pronounced&#32;
+ |=
+ |German pronunciation:&#32;
+}}</small>{{IPA|[[Help:IPA/Standard German|[{{{1}}}]]]|lang=de{{#switch:{{{2|}}}|at|langat=-AT|ch|langch=-CH}}}}{{#if:{{{3|}}}
+ |{{IPA audio link|{{{3}}} }}
+}}</onlyinclude><noinclude>
+
+{{Documentation}}
+</noinclude>
