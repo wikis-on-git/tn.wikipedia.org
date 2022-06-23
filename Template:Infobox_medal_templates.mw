@@ -1,0 +1,11 @@
+{{#if:{{{medals|}}}|<div class="mw-collapsible {{#if:{{{expand|}}}||mw-collapsed}}" style="text-align:center; font-size:95%">
+    <div style="line-height:1.6em; font-weight:bold; background-color:#ccf; font-size:105%; {{{titlestyle|background-color:transparent;}}}"><!--
+     --><div style="margin:0 4em;">{{#if:{{{title|}}}|{{{title}}}|Medal record}}</div><!--
+ --></div>
+    <div class="mw-collapsible-content" style="font-size:105%;">
+{{{!}} style="width:100%; background-color:#f9f9f9; color:#000000; font-weight:normal;"
+{{!}} 
+{{{medals}}}
+{{!}}}
+</div></div>
+}}{{#ifeq:{{str left|{{{medal_templates|}}}|2}}|{{{!}}|[[Category:Infobox medal templates requiring repair]]|}}<noinclude>{{documentation}}</noinclude>
