@@ -1,0 +1,8 @@
+{{#invoke:Infobox3cols|infobox}}<!--
+-->{{<includeonly>safesubst:</includeonly>#invoke:Check for unknown parameters|check|unknown=[[Category:Pages using infobox3cols with undocumented parameters|_VALUE_{{PAGENAME}}]]|ignoreblank=y|checkpositional=y
+| child| subbox| bodyclass| bodystyle| title| titleclass| titlestyle| above| abovestyle| aboveclass| aboverowclass| subheader| subheaderstyle| subheaderclass| subheaderrowclass1| subheader2| subheaderrowclass2| image| imageclass| imagestyle| caption| captionstyle| image1| caption1| imagerowclass1| image2| caption2| imagerowclass2| headerstyle| labelstyle| multidatastyle| datastyle| datastylea| datastyleb| datastylec| extracellstyles| templatestyles| regexp1 = header[%d][%d]*| regexp2 = label[%d][%d]*| regexp3 = data[%d][%d]*[abc]?| regexp4 = class[%d][%d]*[abc]?| regexp5 = rowclass[%d][%d]*| regexp6 = rowstyle[%d][%d]*| regexp7 = rowcellstyle[%d][%d]*| below| belowstyle| belowclass| belowrowclass| name 
+}}{{#if:{{{header0|}}}{{{label0|}}}{{{data0|}}}{{{data0a|}}}{{{data0b|}}}{{{data0c|}}}{{{class0|}}}{{{rowclass0|}}}|[[Category:Pages using infobox3cols with header0 or label0 or data0]]
+}}{{#if:{{{multidatastyle|}}}|[[Category:Pages using infobox3cols with multidatastyle]]
+}}<includeonly>{{#ifeq:{{NAMESPACE}}|Template|{{#ifeq:{{str left|{{SUBPAGENAME}}|7}}|Infobox|[[Category:Infobox templates|{{remove first word|{{SUBPAGENAME}}}} ]]}}}}</includeonly><noinclude>
+{{documentation}}<!-- Add categories and interwikis to the /doc subpage, not here! -->
+</noinclude>
