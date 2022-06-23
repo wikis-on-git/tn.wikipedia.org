@@ -1,0 +1,14 @@
+<div style="width:100px; margin:0 auto; padding:0">
+<div style="background-color:white; position:relative; left:0px; top:0px; width:100px; height:95px; margin:0 auto; padding:0">
+<!-- body -->
+<div style="position:absolute; left:0px; top:0px; width:100px; height:59px; background-color:{{{body}}}">{{#ifexist: Media:Kit body {{{pattern_b|bad}}}.{{{filetype|svg}}}|[[File:Kit body {{{pattern_b}}}.{{{filetype|svg}}}|top]]|[[File:Kit body unknown.svg|top]]}}</div>
+<div style="position:absolute; left:0px; top:0px; width:100px; height:59px">[[File:Kit body netball.svg|top|{{{title}}}]]</div>
+<!-- skirt -->
+<div style="position:absolute; left:0px; top:59px; width:100px; height:36px; background-color:{{{skirt}}}">{{#ifexist: Media:Kit skirt {{{pattern_sk|bad}}}.svg|[[File:Kit skirt {{{pattern_sk}}}.svg|top]]|[[File:Kit skirt netball.svg|top|{{{title}}}]]}}</div>
+</div>
+<!-- Title -->
+{{#if: {{{title}}}|<div style="padding-top:0.6em; text-align:center;">'''{{{title}}}'''</div>|Uniform}}
+</div><noinclude>
+{{documentation}}
+<!-- PLEASE ADD CATEGORIES AND INTERWIKIS TO THE /doc SUBPAGE, THANKS -->
+</noinclude>
