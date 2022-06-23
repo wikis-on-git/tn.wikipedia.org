@@ -1,0 +1,121 @@
+<includeonly>{{short description|Football club|noreplace}}</includeonly>{{Infobox
+| title      = {{{title|{{{clubname|<includeonly>{{PAGENAMEBASE}}</includeonly>}}} }}}
+| bodyclass  = vcard
+| child      = {{{child|}}}
+| subbox     = {{{embed|}}}
+| titleclass = fn org
+| labelstyle = white-space: nowrap; text-align:left
+| image      = {{#invoke:InfoboxImage|InfoboxImage|image={{{image|}}}|size={{{image_size|}}}|sizedefault=frameless|upright={{{upright|}}}|alt={{{alt|}}}}}
+| caption    = {{{caption|}}}
+
+| label1     = Full name
+| data1      = {{{fullname|}}}
+
+| label2     = Nickname(s)
+| data2      = {{{nickname|}}}
+| class2     = nickname
+
+| label3     = Short name
+| data3      = {{{short name|}}}
+| class3     = nickname
+
+| label4     = Founded
+| data4      = {{{founded|}}}
+
+| label5     = Dissolved
+| data5      = {{{dissolved|}}}
+
+| label6     = {{#if:{{{stadium|}}}|Stadium|Ground}}
+| data6      = {{#if:{{{stadium|}}}|{{{stadium|}}}|{{{ground|}}}}}
+| class6     = label
+
+| label7     = Capacity
+| data7      = {{{capacity|}}}
+
+| label8     = Coordinates
+| data8      = {{#if:{{{coordinates|}}}|<span style="white-space:nowrap">{{{coordinates}}}</span>}}
+
+| label9     = {{#if:{{{owntitle|}}}|{{{owntitle}}}|Owner}}
+| data9      = {{{owner|}}}
+
+| label10    = {{#if:{{{chrtitle|}}}|{{{chrtitle}}}|Chairman}}
+| data10     = {{{chairman|}}}
+| class10    = agent
+
+| label11    = {{#if:{{{mgrtitle|}}}|{{{mgrtitle}}}|Manager}}
+| data11     = {{{manager|}}}
+| class11    = agent
+
+| label12    = Coach
+| data12     = {{{coach|}}}
+| class12     = agent
+
+| label13    = League
+| data13     = {{{league|}}}
+
+| label14    = {{{season|}}}
+| data14     = {{{position|}}}
+
+| label15    = Website
+| data15     = {{#if:{{{website|}}}|{{URL|1={{{website|}}}|2=Club website}}}}
+
+| data16     = {{#if:{{{pattern_la1|}}}{{{pattern_b1|}}}{{{pattern_ra1|}}}{{{pattern_sh1|}}}{{{pattern_so1|}}}{{{leftarm1|}}}{{{body1|}}}{{{rightarm1|}}}{{{shorts1|}}}{{{socks1|}}} {{{pattern_la2|}}}{{{pattern_b2|}}}{{{pattern_ra2|}}}{{{pattern_sh2|}}}{{{pattern_so2|}}}{{{leftarm2|}}}{{{body2|}}}{{{rightarm2|}}}{{{shorts2|}}}{{{socks2|}}}{{{pattern_la3|}}}{{{pattern_b3|}}}{{{pattern_ra3|}}}{{{pattern_sh3|}}}{{{pattern_so3|}}}{{{leftarm3|}}}{{{body3|}}}{{{rightarm3|}}}{{{shorts3|}}}{{{socks3|}}}
+ |<tr><td style="padding: 0; background: #ffffff; text-align: center; border: 1px solid #D3D3D3;" colspan="2">
+<table style="width:100%; text-align:center;">
+<tr>
+{{#if:{{{pattern_la1|}}}{{{pattern_b1|}}}{{{pattern_ra1|}}}{{{pattern_sh1|}}}{{{pattern_so1|}}}{{{leftarm1|}}}{{{body1|}}}{{{rightarm1|}}}{{{shorts1|}}}{{{socks1|}}}|
+<td>{{Football kit
+ |  alt        = {{{kit_alt1|}}}
+ |  pattern_la = {{{pattern_la1|}}}
+ |  pattern_b  = {{{pattern_b1|_unknown}}}
+ |  pattern_ra = {{{pattern_ra1|}}}
+ |  pattern_sh = {{{pattern_sh1|}}}
+ |  pattern_so = {{{pattern_so1|}}}
+ |  leftarm    = {{{leftarm1|}}}
+ |  body       = {{{body1|}}}
+ |  rightarm   = {{{rightarm1|}}}
+ |  shorts     = {{{shorts1|}}}
+ |  socks      = {{{socks1|}}}
+ |  title      = {{#ifeq:{{{pattern_name1|Home}}}|Home|[[Kit (association football)|Home {{#if:{{{American|}}}|colors|colours}}]]|{{{pattern_name1|Home}}} [[Kit (association football)|{{#if:{{{American|}}}|colors|colours}}]]}}
+}}</td>
+}}{{#if:{{{pattern_la2|}}}{{{pattern_b2|}}}{{{pattern_ra2|}}}{{{pattern_sh2|}}}{{{pattern_so2|}}}{{{leftarm2|}}}{{{body2|}}}{{{rightarm2|}}}{{{shorts2|}}}{{{socks2|}}}|
+<td>{{Football kit
+  | alt        = {{{kit_alt2|}}}
+  | pattern_la = {{{pattern_la2|}}}
+  | pattern_b  = {{{pattern_b2|_unknown}}}
+  | pattern_ra = {{{pattern_ra2|}}}
+  | pattern_sh = {{{pattern_sh2|}}}
+  | pattern_so = {{{pattern_so2|}}}
+  | leftarm    = {{{leftarm2|}}}
+  | body       = {{{body2|}}}
+  | rightarm   = {{{rightarm2|}}}
+  | shorts     = {{{shorts2|}}}
+  | socks      = {{{socks2|}}}
+  | title      = {{#ifeq:{{{pattern_name2|Away}}}|Away|[[Away colours|Away {{#if:{{{American|}}}|colors|colours}}]]|{{{pattern_name2|Away}}} {{#if:{{{American|}}}|colors|colours}}}}
+}}</td>
+}}{{#if:{{{pattern_la3|}}}{{{pattern_b3|}}}{{{pattern_ra3|}}}{{{pattern_sh3|}}}{{{pattern_so3|}}}{{{leftarm3|}}}{{{body3|}}}{{{rightarm3|}}}{{{shorts3|}}}{{{socks3|}}}|
+<td>{{Football kit
+  | alt        = {{{kit_alt3|}}}
+  | pattern_la = {{{pattern_la3|}}}
+  | pattern_b  = {{{pattern_b3|_unknown}}}
+  | pattern_ra = {{{pattern_ra3|}}}
+  | pattern_sh = {{{pattern_sh3|}}}
+  | pattern_so = {{{pattern_so3|}}}
+  | leftarm    = {{{leftarm3|}}}
+  | body       = {{{body3|}}}
+  | rightarm   = {{{rightarm3|}}}
+  | shorts     = {{{shorts3|}}}
+  | socks      = {{{socks3|}}}
+  | title      = {{#ifeq:{{{pattern_name3|Third}}}|Third|[[Third jersey|Third {{#if:{{{American|}}}|colors|colours}}]]|{{{pattern_name3|Third}}} {{#if:{{{American|}}}|colors|colours}}}}
+}}</td>
+}}</tr>
+</table></td></tr>}}
+| belowclass = noprint
+| below      = {{#if:{{{current|}}}|[[File:Soccerball current event.svg|33px|link=|alt=]] ''[[{{{current}}}|Current season]]''}}
+}}{{#invoke:Check for unknown parameters|check|unknown={{main other|[[Category:Pages using infobox football club with unknown parameters|_VALUE_{{PAGENAME}}]]}}|preview=Page using [[Template:Infobox football club]] with unknown parameter "_VALUE_"|ignoreblank=y| alt | American | body1 | body2 | body3 | capacity | caption | chairman | chrtitle | clubname | coach | coordinates | current | dissolved | founded | fullname | ground | image | image_size | kit_alt1 | kit_alt2 | kit_alt3 | league | leftarm1 | leftarm2 | leftarm3 | manager | mgrtitle | nickname | owner | owntitle | pattern_b1 | pattern_b2 | pattern_b3 | pattern_la1 | pattern_la2 | pattern_la3 | pattern_name1 | pattern_name2 | pattern_name3 | pattern_ra1 | pattern_ra2 | pattern_ra3 | pattern_sh1 | pattern_sh2 | pattern_sh3 | pattern_so1 | pattern_so2 | pattern_so3 | position | rightarm1 | rightarm2 | rightarm3 | season | short name | shorts1 | shorts2 | shorts3 | socks1 | socks2 | socks3 | stadium | title | upright | website 
+}}{{#if:{{{American|}}}|[[Category:football team templates which use American parameter]]
+}}{{#if:{{{short name|}}}|[[Category:football team templates which use short name parameter]]
+}}<noinclude>
+{{documentation}}
+<!-- please place categories and language links on the documentation page, not here! -->
+</noinclude>
