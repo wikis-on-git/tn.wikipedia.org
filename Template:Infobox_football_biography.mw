@@ -1,0 +1,506 @@
+{{Infobox3cols
+| child       = {{Yesno|{{{embed|no}}}}}
+| bodyclass   = vcard
+| bodystyle   = line-height: 1.2em;
+
+| title       = {{#ifeq:{{Yesno|{{{embed|no}}}}}|yes|{{#if:{{{header-color|}}}|<hr style="background-color: {{{header-color|transparent}}}; height: 3px;" />|}}<div style="text-align: center;">{{#if:{{{embed-header|}}}|{{{embed-header}}}|Association football career}}</div>|{{{name|<includeonly>{{{playername|{{PAGENAMEBASE}} }}}</includeonly>}}}}}
+| titleclass  = fn
+| titlestyle  = font-size: 125%; text-align: center; line-height: 1.2em;
+
+| image       = {{#invoke:InfoboxImage|InfoboxImage|image={{{image|}}}|size={{{image_size|}}}|sizedefault=frameless|upright={{{upright|}}}|alt={{{alt|}}}|suppressplaceholder=yes}}
+| caption     = {{{caption|}}}
+| captionstyle = padding:0.2em 0 0 0;
+
+| headerstyle = background-color: {{#ifeq:{{Yesno|{{{embed|no}}}}}|yes|{{{header-color|transparent}}}|#b0c4de}}; line-height: 1.5em
+| labelstyle  = white-space: nowrap; vertical-align: baseline; text-align: left
+| datastyle   = white-space: nowrap; vertical-align: baseline;
+| datastylea  = white-space: nowrap; vertical-align: baseline;
+| datastyleb  = white-space: nowrap; vertical-align: baseline;{{#if:{{{caps(goals)1|{{{caps(goals)|}}}}}}{{{nationalcaps(goals)1|{{{nationalcaps(goals)|}}}}}}||text-align: right}}
+| datastylec  = white-space: nowrap; vertical-align: baseline; text-align: right
+
+| header1     = {{#ifeq:{{Yesno|{{{embed|no}}}}}|yes||{{#if:{{{full_name|}}}{{{fullname|}}}{{{birth_date|}}}{{{birth_place|}}}{{{death_date|}}}{{{death_place|}}}{{{height|}}}{{{position|}}}|Personal information}}}}
+
+| label2      = Full name
+| data2       = {{{full_name|{{{fullname|}}}}}}
+|extracellstyles=2,3,4,5,6,7,8,9,11=white-space: normal;
+| class2      = nickname
+| label3      = Birth name
+| data3       = {{{birth_name|}}}
+| class3      = nickname
+| label4      = Date of birth
+| data4       = {{{birth_date|}}}
+| label5      = Place of birth
+| data5       = {{{birth_place|}}}
+| class5      = birthplace
+| label6      = Date of death
+| data6       = {{{death_date|}}}
+| label7      = Place of death
+| class7      = deathplace
+| data7       = {{{death_place|}}}
+| label8      = Height
+| data8       = {{#if:{{{height_m|{{{height_cm|}}}}}}{{{height_ft|}}}{{{height_in|}}} | {{convinfobox|{{{height_m|{{{height_cm|}}}}}}|{{#if:{{{height_m|}}}|m|cm}}|{{{height_ft|}}}|ft|{{{height_in|}}}|in}} }}{{#if:{{{height|}}} | {{#invoke:person height|main|{{{height|}}}}} }}
+| label9      = Position(s)
+| class9      = role
+| data9       = {{{position|}}}
+
+| header10    = {{#if:{{{currentclub|}}}|Club information}}
+
+| label11     = {{Longitem|Current team}}
+| class11     = org
+| data11      = {{{currentclub|}}}
+| label12     = Number
+| data12      = {{{clubnumber|}}}
+
+| header13    = {{#if:{{{youthclubs1|{{{youthclubs|}}}}}}|Youth career}}
+
+| label14     = {{#if:{{{clubs1|{{{clubs|}}}}}}||{{#if:{{{youthyears1|{{{youthyears|}}}}}}|Years}} }}
+| data14      = {{#if:{{{clubs1|{{{clubs|}}}}}}||{{#if:{{{youthclubs1|{{{youthclubs|}}}}}}|'''Team'''}} }}
+
+| label15     = {{#if:{{{youthclubs|}}}|<span style="line-height:1.7em">}}{{#if:{{{youthclubs1|{{{youthclubs|}}}}}}|<span style="font-weight:normal">{{{youthyears1|{{{youthyears|–}}}}}}</span>}}
+| data15      = {{#if:{{{youthclubs|}}}|<span style="line-height:1.7em">}}{{{youthclubs1|{{{youthclubs|}}}}}}
+| label16     = {{#if:{{{youthclubs2|}}}|<span style="font-weight:normal">{{{youthyears2|–}}}</span>}}
+| data16      = {{{youthclubs2|}}}
+| label17     = {{#if:{{{youthclubs3|}}}|<span style="font-weight:normal">{{{youthyears3|–}}}</span>}}
+| data17      = {{{youthclubs3|}}}
+| label18     = {{#if:{{{youthclubs4|}}}|<span style="font-weight:normal">{{{youthyears4|–}}}</span>}}
+| data18      = {{{youthclubs4|}}}
+| label19     = {{#if:{{{youthclubs5|}}}|<span style="font-weight:normal">{{{youthyears5|–}}}</span>}}
+| data19      = {{{youthclubs5|}}}
+| label20     = {{#if:{{{youthclubs6|}}}|<span style="font-weight:normal">{{{youthyears6|–}}}</span>}}
+| data20      = {{{youthclubs6|}}}
+| label21     = {{#if:{{{youthclubs7|}}}|<span style="font-weight:normal">{{{youthyears7|–}}}</span>}}
+| data21      = {{{youthclubs7|}}}
+| label22     = {{#if:{{{youthclubs8|}}}|<span style="font-weight:normal">{{{youthyears8|–}}}</span>}}
+| data22      = {{{youthclubs8|}}}
+| label23     = {{#if:{{{youthclubs9|}}}|<span style="font-weight:normal">{{{youthyears9|–}}}</span>}}
+| data23      = {{{youthclubs9|}}}
+| label24     = {{#if:{{{youthclubs10|}}}|<span style="font-weight:normal">{{{youthyears10|–}}}</span>}}
+| data24      = {{{youthclubs10|}}}
+
+| header25	= {{#if:{{{college1|{{{colleges|}}}}}}|College career }}
+
+| label26     = {{#if:{{{college1|{{{colleges|}}}}}}|Years}}
+| data26a     = {{#if:{{{college1|{{{colleges|}}}}}}|'''Team'''}}
+| data26b     = {{#if:{{{college1|{{{colleges|}}}}}}|{{#if:{{{collegecaps(goals)1|{{{collegecaps(goals)|}}}}}}|'''{{abbr|Apps|League appearances}} ({{abbr|Gls|League goals}})'''|'''{{abbr|Apps|League appearances}}'''}} }}
+| data26c     = {{#if:{{{collegecaps(goals)1|{{{collegecaps(goals)|}}}}}}||'''({{abbr|Gls|League goals}})'''}}
+
+| label27     = {{#if:{{{colleges|}}}|<span style="line-height:1.7em">}}{{#if:{{{college1|{{{colleges|}}}}}}|<span style="font-weight:normal">{{{collegeyears1|{{{collegeyears|–}}}}}}</span>}}
+
+| data27a     = {{#if:{{{colleges|}}}|<span style="line-height:1.7em">}}{{{college1|{{{colleges|}}}}}}
+| data27b     = {{#if:{{{colleges|}}}|<span style="line-height:1.7em">}}{{{collegecaps1| {{{collegecaps|{{{collegecaps(goals)1|{{{collegecaps(goals)|}}}}}} }}}}}}
+| data27c     = {{#if:{{{colleges|}}}|<span style="line-height:1.7em">}}{{#if:{{{collegegoals1|{{{collegegoals|}}}}}}|({{{collegegoals1|{{{collegegoals|}}}}}})}}
+| label28     = {{#if:{{{college2|}}}|<span style="font-weight:normal">{{{collegeyears2|–}}}</span>}}
+| data28a     = {{{college2|}}}
+| data28b     = {{{collegecaps2|{{{collegecaps(goals)2|}}} }}}
+| data28c     = {{#if:{{{collegegoals2|}}}|({{{collegegoals2}}})}}
+| label29     = {{#if:{{{college3|}}}|<span style="font-weight:normal">{{{collegeyears3|–}}}</span>}}
+| data29a     = {{{college3|}}}
+| data29b     = {{{collegecaps3|{{{collegecaps(goals)3|}}} }}}
+| data29c     = {{#if:{{{collegegoals3|}}}|({{{collegegoals3}}})}}
+| label30     = {{#if:{{{college4|}}}|<span style="font-weight:normal">{{{collegeyears4|–}}}</span>}}
+| data30a     = {{{college4|}}}
+| data30b     = {{{collegecaps4|{{{collegecaps(goals)4|}}} }}}
+| data30c     = {{#if:{{{collegegoals4|}}}|({{{collegegoals4}}})}}
+
+| header31	= {{#if:{{{clubs1|{{{clubs|}}}}}}|Senior career* }}
+
+| label32 	= {{#if:{{{clubs1|{{{clubs|}}}}}}|Years}}
+| data32a	= {{#if:{{{clubs1|{{{clubs|}}}}}}|'''Team'''}}
+| data32b	= {{#if:{{{clubs1|{{{clubs|}}}}}}|{{#if:{{{caps(goals)1|{{{caps(goals)|}}}}}}|'''{{abbr|Apps|League appearances}} ({{abbr|Gls|League goals}})'''|'''{{abbr|Apps|League appearances}}'''}} }}
+| data32c	= {{#if:{{{caps(goals)1|{{{caps(goals)|}}}}}}||'''({{abbr|Gls|League goals}})'''}}
+
+| label33 	= {{#if:{{{clubs|}}}|<span style="line-height:1.7em">}}{{#if:{{{clubs1|{{{clubs|}}}}}}|<span style="font-weight:normal">{{{years1|{{{years|–}}}}}}</span>}}
+| data33a	= {{#if:{{{clubs|}}}|<span style="line-height:1.7em">}}{{{clubs1|{{{clubs|}}}}}}
+| data33b	= {{#if:{{{clubs|}}}|<span style="line-height:1.7em">}}{{{caps1| {{{caps|{{{caps(goals)1|{{{caps(goals)|}}}}}} }}}}}}
+| data33c	= {{#if:{{{clubs|}}}|<span style="line-height:1.7em">}}{{#if:{{{goals1|{{{goals|}}}}}}|({{{goals1|{{{goals|}}}}}})}}
+| label34 	= {{#if:{{{clubs2|}}}|<span style="font-weight:normal">{{{years2|–}}}</span>}}
+| data34a	= {{{clubs2|}}}
+| data34b	= {{{caps2|{{{caps(goals)2|}}} }}}
+| data34c	= {{#if:{{{goals2|}}}|({{{goals2}}})}}
+| label35 	= {{#if:{{{clubs3|}}}|<span style="font-weight:normal">{{{years3|–}}}</span>}}
+| data35a	= {{{clubs3|}}}
+| data35b	= {{{caps3|{{{caps(goals)3|}}} }}}
+| data35c	= {{#if:{{{goals3|}}}|({{{goals3}}})}}
+| label36 	= {{#if:{{{clubs4|}}}|<span style="font-weight:normal">{{{years4|–}}}</span>}}
+| data36a	= {{{clubs4|}}}
+| data36b	= {{{caps4|{{{caps(goals)4|}}} }}}
+| data36c	= {{#if:{{{goals4|}}}|({{{goals4}}})}}
+| label37 	= {{#if:{{{clubs5|}}}|<span style="font-weight:normal">{{{years5|–}}}</span>}}
+| data37a	= {{{clubs5|}}}
+| data37b	= {{{caps5|{{{caps(goals)5|}}} }}}
+| data37c	= {{#if:{{{goals5|}}}|({{{goals5}}})}}
+| label38 	= {{#if:{{{clubs6|}}}|<span style="font-weight:normal">{{{years6|–}}}</span>}}
+| data38a	= {{{clubs6|}}}
+| data38b	= {{{caps6|{{{caps(goals)6|}}} }}}
+| data38c	= {{#if:{{{goals6|}}}|({{{goals6}}})}}
+| label39 	= {{#if:{{{clubs7|}}}|<span style="font-weight:normal">{{{years7|–}}}</span>}}
+| data39a	= {{{clubs7|}}}
+| data39b	= {{{caps7|{{{caps(goals)7|}}} }}}
+| data39c	= {{#if:{{{goals7|}}}|({{{goals7}}})}}
+| label40 	= {{#if:{{{clubs8|}}}|<span style="font-weight:normal">{{{years8|–}}}</span>}}
+| data40a	= {{{clubs8|}}}
+| data40b	= {{{caps8|{{{caps(goals)8|}}} }}}
+| data40c	= {{#if:{{{goals8|}}}|({{{goals8}}})}}
+| label41 	= {{#if:{{{clubs9|}}}|<span style="font-weight:normal">{{{years9|–}}}</span>}}
+| data41a	= {{{clubs9|}}}
+| data41b	= {{{caps9|{{{caps(goals)9|}}} }}}
+| data41c	= {{#if:{{{goals9|}}}|({{{goals9}}})}}
+| label42 	= {{#if:{{{clubs10|}}}|<span style="font-weight:normal">{{{years10|–}}}</span>}}
+| data42a	= {{{clubs10|}}}
+| data42b	= {{{caps10|{{{caps(goals)10|}}} }}}
+| data42c	= {{#if:{{{goals10|}}}|({{{goals10}}})}}
+| label43 	= {{#if:{{{clubs11|}}}|<span style="font-weight:normal">{{{years11|–}}}</span>}}
+| data43a	= {{{clubs11|}}}
+| data43b	= {{{caps11|{{{caps(goals)11|}}} }}}
+| data43c	= {{#if:{{{goals11|}}}|({{{goals11}}})}}
+| label44 	= {{#if:{{{clubs12|}}}|<span style="font-weight:normal">{{{years12|–}}}</span>}}
+| data44a	= {{{clubs12|}}}
+| data44b	= {{{caps12|{{{caps(goals)12|}}} }}}
+| data44c	= {{#if:{{{goals12|}}}|({{{goals12}}})}}
+| label45 	= {{#if:{{{clubs13|}}}|<span style="font-weight:normal">{{{years13|–}}}</span>}}
+| data45a	= {{{clubs13|}}}
+| data45b	= {{{caps13|{{{caps(goals)13|}}} }}}
+| data45c	= {{#if:{{{goals13|}}}|({{{goals13}}})}}
+| label46 	= {{#if:{{{clubs14|}}}|<span style="font-weight:normal">{{{years14|–}}}</span>}}
+| data46a	= {{{clubs14|}}}
+| data46b	= {{{caps14|{{{caps(goals)14|}}} }}}
+| data46c	= {{#if:{{{goals14|}}}|({{{goals14}}})}}
+| label47 	= {{#if:{{{clubs15|}}}|<span style="font-weight:normal">{{{years15|–}}}</span>}}
+| data47a	= {{{clubs15|}}}
+| data47b	= {{{caps15|{{{caps(goals)15|}}} }}}
+| data47c	= {{#if:{{{goals15|}}}|({{{goals15}}})}}
+| label48 	= {{#if:{{{clubs16|}}}|<span style="font-weight:normal">{{{years16|–}}}</span>}}
+| data48a	= {{{clubs16|}}}
+| data48b	= {{{caps16|{{{caps(goals)16|}}} }}}
+| data48c	= {{#if:{{{goals16|}}}|({{{goals16}}})}}
+| label49 	= {{#if:{{{clubs17|}}}|<span style="font-weight:normal">{{{years17|–}}}</span>}}
+| data49a	= {{{clubs17|}}}
+| data49b	= {{{caps17|{{{caps(goals)17|}}} }}}
+| data49c	= {{#if:{{{goals17|}}}|({{{goals17}}})}}
+| label50 	= {{#if:{{{clubs18|}}}|<span style="font-weight:normal">{{{years18|–}}}</span>}}
+| data50a	= {{{clubs18|}}}
+| data50b	= {{{caps18|{{{caps(goals)18|}}} }}}
+| data50c	= {{#if:{{{goals18|}}}|({{{goals18}}})}}
+| label51 	= {{#if:{{{clubs19|}}}|<span style="font-weight:normal">{{{years19|–}}}</span>}}
+| data51a	= {{{clubs19|}}}
+| data51b	= {{{caps19|{{{caps(goals)19|}}} }}}
+| data51c	= {{#if:{{{goals19|}}}|({{{goals19}}})}}
+| label52 	= {{#if:{{{clubs20|}}}|<span style="font-weight:normal">{{{years20|–}}}</span>}}
+| data52a	= {{{clubs20|}}}
+| data52b	= {{{caps20|{{{caps(goals)20|}}} }}}
+| data52c	= {{#if:{{{goals20|}}}|({{{goals20}}})}}
+| label53 	= {{#if:{{{clubs21|}}}|<span style="font-weight:normal">{{{years21|–}}}</span>}}
+| data53a	= {{{clubs21|}}}
+| data53b	= {{{caps21|{{{caps(goals)21|}}} }}}
+| data53c	= {{#if:{{{goals21|}}}|({{{goals21}}})}}
+| label54 	= {{#if:{{{clubs22|}}}|<span style="font-weight:normal">{{{years22|–}}}</span>}}
+| data54a	= {{{clubs22|}}}
+| data54b	= {{{caps22|{{{caps(goals)22|}}} }}}
+| data54c	= {{#if:{{{goals22|}}}|({{{goals22}}})}}
+| label55 	= {{#if:{{{clubs23|}}}|<span style="font-weight:normal">{{{years23|–}}}</span>}}
+| data55a	= {{{clubs23|}}}
+| data55b	= {{{caps23|{{{caps(goals)23|}}} }}}
+| data55c	= {{#if:{{{goals23|}}}|({{{goals23}}})}}
+| label56 	= {{#if:{{{clubs24|}}}|<span style="font-weight:normal">{{{years24|–}}}</span>}}
+| data56a	= {{{clubs24|}}}
+| data56b	= {{{caps24|{{{caps(goals)24|}}} }}}
+| data56c	= {{#if:{{{goals24|}}}|({{{goals24}}})}}
+| label57 	= {{#if:{{{clubs25|}}}|<span style="font-weight:normal">{{{years25|–}}}</span>}}
+| data57a	= {{{clubs25|}}}
+| data57b	= {{{caps25|{{{caps(goals)25|}}} }}}
+| data57c	= {{#if:{{{goals25|}}}|({{{goals25}}})}}
+| label58 	= {{#if:{{{clubs26|}}}|<span style="font-weight:normal">{{{years26|–}}}</span>}}
+| data58a	= {{{clubs26|}}}
+| data58b	= {{{caps26|{{{caps(goals)26|}}} }}}
+| data58c	= {{#if:{{{goals26|}}}|({{{goals26}}})}}
+| label59 	= {{#if:{{{clubs27|}}}|<span style="font-weight:normal">{{{years27|–}}}</span>}}
+| data59a	= {{{clubs27|}}}
+| data59b	= {{{caps27|{{{caps(goals)27|}}} }}}
+| data59c	= {{#if:{{{goals27|}}}|({{{goals27}}})}}
+| label60 	= {{#if:{{{clubs28|}}}|<span style="font-weight:normal">{{{years28|–}}}</span>}}
+| data60a	= {{{clubs28|}}}
+| data60b	= {{{caps28|{{{caps(goals)28|}}} }}}
+| data60c	= {{#if:{{{goals28|}}}|({{{goals28}}})}}
+| label61 	= {{#if:{{{clubs29|}}}|<span style="font-weight:normal">{{{years29|–}}}</span>}}
+| data61a	= {{{clubs29|}}}
+| data61b	= {{{caps29|{{{caps(goals)29|}}} }}}
+| data61c	= {{#if:{{{goals29|}}}|({{{goals29}}})}}
+| label62 	= {{#if:{{{clubs30|}}}|<span style="font-weight:normal">{{{years30|–}}}</span>}}
+| data62a	= {{{clubs30|}}}
+| data62b	= {{{caps30|{{{caps(goals)30|}}} }}}
+| data62c	= {{#if:{{{goals30|}}}|({{{goals30}}})}}
+| label63 	= {{#if:{{{clubs31|}}}|<span style="font-weight:normal">{{{years31|–}}}</span>}}
+| data63a	= {{{clubs31|}}}
+| data63b	= {{{caps31|{{{caps(goals)31|}}} }}}
+| data63c	= {{#if:{{{goals31|}}}|({{{goals31}}})}}
+| label64 	= {{#if:{{{clubs32|}}}|<span style="font-weight:normal">{{{years32|–}}}</span>}}
+| data64a	= {{{clubs32|}}}
+| data64b	= {{{caps32|{{{caps(goals)32|}}} }}}
+| data64c	= {{#if:{{{goals32|}}}|({{{goals32}}})}}
+| label65 	= {{#if:{{{clubs33|}}}|<span style="font-weight:normal">{{{years33|–}}}</span>}}
+| data65a	= {{{clubs33|}}}
+| data65b	= {{{caps33|{{{caps(goals)33|}}} }}}
+| data65c	= {{#if:{{{goals33|}}}|({{{goals33}}})}}
+| label66 	= {{#if:{{{clubs34|}}}|<span style="font-weight:normal">{{{years34|–}}}</span>}}
+| data66a	= {{{clubs34|}}}
+| data66b	= {{{caps34|{{{caps(goals)34|}}} }}}
+| data66c	= {{#if:{{{goals34|}}}|({{{goals34}}})}}
+| label67 	= {{#if:{{{clubs35|}}}|<span style="font-weight:normal">{{{years35|–}}}</span>}}
+| data67a	= {{{clubs35|}}}
+| data67b	= {{{caps35|{{{caps(goals)35|}}} }}}
+| data67c	= {{#if:{{{goals35|}}}|({{{goals35}}})}}
+| label68 	= {{#if:{{{clubs36|}}}|<span style="font-weight:normal">{{{years36|–}}}</span>}}
+| data68a	= {{{clubs36|}}}
+| data68b	= {{{caps36|{{{caps(goals)36|}}} }}}
+| data68c	= {{#if:{{{goals36|}}}|({{{goals36}}})}}
+| label69 	= {{#if:{{{clubs37|}}}|<span style="font-weight:normal">{{{years37|–}}}</span>}}
+| data69a	= {{{clubs37|}}}
+| data69b	= {{{caps37|{{{caps(goals)37|}}} }}}
+| data69c	= {{#if:{{{goals37|}}}|({{{goals37}}})}}
+| label70 	= {{#if:{{{clubs38|}}}|<span style="font-weight:normal">{{{years38|–}}}</span>}}
+| data70a	= {{{clubs38|}}}
+| data70b	= {{{caps38|{{{caps(goals)38|}}} }}}
+| data70c	= {{#if:{{{goals38|}}}|({{{goals38}}})}}
+| label71 	= {{#if:{{{clubs39|}}}|<span style="font-weight:normal">{{{years39|–}}}</span>}}
+| data71a	= {{{clubs39|}}}
+| data71b	= {{{caps39|{{{caps(goals)39|}}} }}}
+| data71c	= {{#if:{{{goals39|}}}|({{{goals39}}})}}
+| label72 	= {{#if:{{{clubs40|}}}|<span style="font-weight:normal">{{{years40|–}}}</span>}}
+| data72a	= {{{clubs40|}}}
+| data72b	= {{{caps40|{{{caps(goals)40|}}} }}}
+| data72c	= {{#if:{{{goals40|}}}|({{{goals40}}})}}
+| label73 	= {{#if:{{{clubs41|}}}|<span style="font-weight:normal">{{{years41|–}}}</span>}}
+| data73a	= {{{clubs41|}}}
+| data73b	= {{{caps41|{{{caps(goals)41|}}} }}}
+| data73c	= {{#if:{{{goals41|}}}|({{{goals41}}})}}
+| label74 	= {{#if:{{{clubs42|}}}|<span style="font-weight:normal">{{{years42|–}}}</span>}}
+| data74a	= {{{clubs42|}}}
+| data74b	= {{{caps42|{{{caps(goals)42|}}} }}}
+| data74c	= {{#if:{{{goals42|}}}|({{{goals42}}})}}
+| label75 	= {{#if:{{{clubs43|}}}|<span style="font-weight:normal">{{{years43|–}}}</span>}}
+| data75a	= {{{clubs43|}}}
+| data75b	= {{{caps43|{{{caps(goals)43|}}} }}}
+| data75c	= {{#if:{{{goals43|}}}|({{{goals43}}})}}
+| label76 	= {{#if:{{{clubs44|}}}|<span style="font-weight:normal">{{{years44|–}}}</span>}}
+| data76a	= {{{clubs44|}}}
+| data76b	= {{{caps44|{{{caps(goals)44|}}} }}}
+| data76c	= {{#if:{{{goals44|}}}|({{{goals44}}})}}
+| label77 	= {{#if:{{{clubs45|}}}|<span style="font-weight:normal">{{{years45|–}}}</span>}}
+| data77a	= {{{clubs45|}}}
+| data77b	= {{{caps45|{{{caps(goals)45|}}} }}}
+| data77c	= {{#if:{{{goals45|}}}|({{{goals45}}})}}
+| label78 	= {{#if:{{{clubs46|}}}|<span style="font-weight:normal">{{{years46|–}}}</span>}}
+| data78a	= {{{clubs46|}}}
+| data78b	= {{{caps46|{{{caps(goals)46|}}} }}}
+| data78c	= {{#if:{{{goals46|}}}|({{{goals46}}})}}
+| label79 	= {{#if:{{{clubs47|}}}|<span style="font-weight:normal">{{{years47|–}}}</span>}}
+| data79a	= {{{clubs47|}}}
+| data79b	= {{{caps47|{{{caps(goals)47|}}} }}}
+| data79c	= {{#if:{{{goals47|}}}|({{{goals47}}})}}
+| label80 	= {{#if:{{{clubs48|}}}|<span style="font-weight:normal">{{{years48|–}}}</span>}}
+| data80a	= {{{clubs48|}}}
+| data80b	= {{{caps48|{{{caps(goals)48|}}} }}}
+| data80c	= {{#if:{{{goals48|}}}|({{{goals48}}})}}
+| label81 	= {{#if:{{{clubs49|}}}|<span style="font-weight:normal">{{{years49|–}}}</span>}}
+| data81a	= {{{clubs49|}}}
+| data81b	= {{{caps49|{{{caps(goals)49|}}} }}}
+| data81c	= {{#if:{{{goals49|}}}|({{{goals49}}})}}
+| label82 	= {{#if:{{{clubs50|}}}|<span style="font-weight:normal">{{{years50|–}}}</span>}}
+| data82a	= {{{clubs50|}}}
+| data82b	= {{{caps50|{{{caps(goals)50|}}} }}}
+| data82c	= {{#if:{{{goals50|}}}|({{{goals50}}})}}
+
+| label83 	= {{#if:{{{totalyears|}}}|{{{totalyears}}}|{{#if:{{{totalcaps|}}}{{{totalcaps(goals)|}}}|Total}}}}
+| data83a	= {{#if:{{{totalyears|}}}|{{#if:{{{totalcaps|}}}{{{totalcaps(goals)|}}}|'''Total'''}}}}
+| data83b	= {{#if:{{{totalcaps|}}}{{{totalcaps(goals)|}}}|'''{{{totalcaps|{{{totalcaps(goals)}}} }}}'''}}
+| data83c	= {{#if:{{{totalgoals|}}}|'''({{{totalgoals}}})'''}}
+
+| header84	= {{#if:{{{nationalteam1|{{{nationalteam|}}}}}}|National team{{#if:{{{ntupdate|{{{nationalteam-update|}}}}}}|<sup>‡</sup> }} }}
+
+| label85 	= {{#if:{{{clubs1|{{{clubs|}}}}}}||{{#if:{{{nationalyears1|{{{nationalyears|}}}}}}|Years}} }}
+| data85a	= {{#if:{{{clubs1|{{{clubs|}}}}}}||{{#if:{{{nationalteam1|{{{nationalteam|}}}}}}|'''Team'''}} }}
+| data85b	= {{#if:{{{clubs1|{{{clubs|}}}}}}||{{#if:{{{nationalcaps(goals)1|{{{nationalcaps(goals)|}}}}}}|'''{{abbr|Apps|National team appearances}} ({{abbr|Gls|National team goals}})'''|'''{{abbr|Apps|National team appearances}}'''}} }}
+| data85c	= {{#if:{{{goals1|{{{goals|}}}}}}||{{#if:{{{nationalcaps(goals)1|{{{nationalcaps(goals)|}}}}}}||'''({{abbr|Gls|National team goals}})'''}} }}
+
+| label86 	= {{#if:{{{nationalteam|}}}|<span style="line-height:1.7em">}}{{#if:{{{nationalteam1|{{{nationalteam|}}}}}}|<span style="font-weight:normal">{{{nationalyears1|{{{nationalyears|–}}}}}}</span>}}
+| data86a	= {{#if:{{{nationalteam|}}}|<span style="line-height:1.7em">}}{{{nationalteam1|{{{nationalteam|}}}}}}
+| data86b	= {{#if:{{{nationalteam|}}}|<span style="line-height:1.7em">}}{{{nationalcaps1|{{{nationalcaps(goals)1|{{{nationalcaps|{{{nationalcaps(goals)|}}} }}} }}} }}}
+| data86c	= {{#if:{{{nationalteam|}}}|<span style="line-height:1.7em">}}{{#if:{{{nationalgoals1|{{{nationalgoals|}}}}}}|({{{nationalgoals1|{{{nationalgoals|}}}}}})}}
+| label87 	= {{#if:{{{nationalteam2|}}}|<span style="font-weight:normal">{{{nationalyears2|–}}}</span>}}
+| data87a	= {{{nationalteam2|}}}
+| data87b	= {{{nationalcaps2|{{{nationalcaps(goals)2|}}} }}}
+| data87c	= {{#if:{{{nationalgoals2|}}}|({{{nationalgoals2}}})}}
+| label88 	= {{#if:{{{nationalteam3|}}}|<span style="font-weight:normal">{{{nationalyears3|–}}}</span>}}
+| data88a	= {{{nationalteam3|}}}
+| data88b	= {{{nationalcaps3|{{{nationalcaps(goals)3|}}} }}}
+| data88c	= {{#if:{{{nationalgoals3|}}}|({{{nationalgoals3}}})}}
+| label89 	= {{#if:{{{nationalteam4|}}}|<span style="font-weight:normal">{{{nationalyears4|–}}}</span>}}
+| data89a	= {{{nationalteam4|}}}
+| data89b	= {{{nationalcaps4|{{{nationalcaps(goals)4|}}} }}}
+| data89c	= {{#if:{{{nationalgoals4|}}}|({{{nationalgoals4}}})}}
+| label90 	= {{#if:{{{nationalteam5|}}}|<span style="font-weight:normal">{{{nationalyears5|–}}}</span>}}
+| data90a	= {{{nationalteam5|}}}
+| data90b	= {{{nationalcaps5|{{{nationalcaps(goals)5|}}} }}}
+| data90c	= {{#if:{{{nationalgoals5|}}}|({{{nationalgoals5}}})}}
+| label91 	= {{#if:{{{nationalteam6|}}}|<span style="font-weight:normal">{{{nationalyears6|–}}}</span>}}
+| data91a	= {{{nationalteam6|}}}
+| data91b	= {{{nationalcaps6|{{{nationalcaps(goals)6|}}} }}}
+| data91c	= {{#if:{{{nationalgoals6|}}}|({{{nationalgoals6}}})}}
+| label92 	= {{#if:{{{nationalteam7|}}}|<span style="font-weight:normal">{{{nationalyears7|–}}}</span>}}
+| data92a	= {{{nationalteam7|}}}
+| data92b	= {{{nationalcaps7|{{{nationalcaps(goals)7|}}} }}}
+| data92c	= {{#if:{{{nationalgoals7|}}}|({{{nationalgoals7}}})}}
+| label93 	= {{#if:{{{nationalteam8|}}}|<span style="font-weight:normal">{{{nationalyears8|–}}}</span>}}
+| data93a	= {{{nationalteam8|}}}
+| data93b	= {{{nationalcaps8|{{{nationalcaps(goals)8|}}} }}}
+| data93c	= {{#if:{{{nationalgoals8|}}}|({{{nationalgoals8}}})}}
+| label94 	= {{#if:{{{nationalteam9|}}}|<span style="font-weight:normal">{{{nationalyears9|–}}}</span>}}
+| data94a	= {{{nationalteam9|}}}
+| data94b	= {{{nationalcaps9|{{{nationalcaps(goals)9|}}} }}}
+| data94c	= {{#if:{{{nationalgoals9|}}}|({{{nationalgoals9}}})}}
+
+| header95	= {{#if:{{{managerclubs1|{{{managerclubs|}}}}}}|Teams managed}}
+
+| label96 	= {{#if:{{{clubs1|{{{clubs|}}}}}}||{{#if:{{{managerclubs1|{{{managerclubs|}}}}}}|Years}} }}
+| data96a	= {{#if:{{{clubs1|{{{clubs|}}}}}}||{{#if:{{{manageryears1|{{{manageryears|}}}}}}|'''Team'''}} }}
+
+| label97 	= {{#if:{{{managerclubs|}}}|<span style="line-height:1.7em; font-weight:normal">{{{manageryears|–}}}</span>}}{{
+#if:{{{managerclubs1|}}}|{{
+  #if:{{{managerclubs|}}} |<span style="line-height:1.8em"><br></span>
+}}<span style="font-weight:normal">{{{manageryears1|–}}}</span>}}
+| data97	= {{#if:{{{managerclubs|}}}|<span style="line-height:1.7em">{{{managerclubs}}}</span>}}{{
+#if:{{{managerclubs1|}}} |{{
+  #if:{{{managerclubs|}}} |<span style="line-height:1.8em"><br></span>
+}}{{{managerclubs1}}} }}
+| label98 	= {{#if:{{{managerclubs2|}}}|<span style="font-weight:normal">{{{manageryears2|–}}}</span>}}
+| data98	= {{{managerclubs2|}}}
+| label99 	= {{#if:{{{managerclubs3|}}}|<span style="font-weight:normal">{{{manageryears3|–}}}</span>}}
+| data99	= {{{managerclubs3|}}}
+| label100 	= {{#if:{{{managerclubs4|}}}|<span style="font-weight:normal">{{{manageryears4|–}}}</span>}}
+| data100	= {{{managerclubs4|}}}
+| label101 	= {{#if:{{{managerclubs5|}}}|<span style="font-weight:normal">{{{manageryears5|–}}}</span>}}
+| data101	= {{{managerclubs5|}}}
+| label102 	= {{#if:{{{managerclubs6|}}}|<span style="font-weight:normal">{{{manageryears6|–}}}</span>}}
+| data102	= {{{managerclubs6|}}}
+| label103 	= {{#if:{{{managerclubs7|}}}|<span style="font-weight:normal">{{{manageryears7|–}}}</span>}}
+| data103	= {{{managerclubs7|}}}
+| label104 	= {{#if:{{{managerclubs8|}}}|<span style="font-weight:normal">{{{manageryears8|–}}}</span>}}
+| data104	= {{{managerclubs8|}}}
+| label105 	= {{#if:{{{managerclubs9|}}}|<span style="font-weight:normal">{{{manageryears9|–}}}</span>}}
+| data105	= {{{managerclubs9|}}}
+| label106 	= {{#if:{{{managerclubs10|}}}|<span style="font-weight:normal">{{{manageryears10|–}}}</span>}}
+| data106	= {{{managerclubs10|}}}
+| label107 	= {{#if:{{{managerclubs11|}}}|<span style="font-weight:normal">{{{manageryears11|–}}}</span>}}
+| data107	= {{{managerclubs11|}}}
+| label108 	= {{#if:{{{managerclubs12|}}}|<span style="font-weight:normal">{{{manageryears12|–}}}</span>}}
+| data108	= {{{managerclubs12|}}}
+| label109 	= {{#if:{{{managerclubs13|}}}|<span style="font-weight:normal">{{{manageryears13|–}}}</span>}}
+| data109	= {{{managerclubs13|}}}
+| label110 	= {{#if:{{{managerclubs14|}}}|<span style="font-weight:normal">{{{manageryears14|–}}}</span>}}
+| data110	= {{{managerclubs14|}}}
+| label111 	= {{#if:{{{managerclubs15|}}}|<span style="font-weight:normal">{{{manageryears15|–}}}</span>}}
+| data111	= {{{managerclubs15|}}}
+| label112 	= {{#if:{{{managerclubs16|}}}|<span style="font-weight:normal">{{{manageryears16|–}}}</span>}}
+| data112	= {{{managerclubs16|}}}
+| label113 	= {{#if:{{{managerclubs17|}}}|<span style="font-weight:normal">{{{manageryears17|–}}}</span>}}
+| data113	= {{{managerclubs17|}}}
+| label114 	= {{#if:{{{managerclubs18|}}}|<span style="font-weight:normal">{{{manageryears18|–}}}</span>}}
+| data114	= {{{managerclubs18|}}}
+| label115 	= {{#if:{{{managerclubs19|}}}|<span style="font-weight:normal">{{{manageryears19|–}}}</span>}}
+| data115	= {{{managerclubs19|}}}
+| label116 	= {{#if:{{{managerclubs20|}}}|<span style="font-weight:normal">{{{manageryears20|–}}}</span>}}
+| data116	= {{{managerclubs20|}}}
+| label117 	= {{#if:{{{managerclubs21|}}}|<span style="font-weight:normal">{{{manageryears21|–}}}</span>}}
+| data117	= {{{managerclubs21|}}}
+| label118 	= {{#if:{{{managerclubs22|}}}|<span style="font-weight:normal">{{{manageryears22|–}}}</span>}}
+| data118	= {{{managerclubs22|}}}
+| label119 	= {{#if:{{{managerclubs23|}}}|<span style="font-weight:normal">{{{manageryears23|–}}}</span>}}
+| data119	= {{{managerclubs23|}}}
+| label120 	= {{#if:{{{managerclubs24|}}}|<span style="font-weight:normal">{{{manageryears24|–}}}</span>}}
+| data120	= {{{managerclubs24|}}}
+| label121 	= {{#if:{{{managerclubs25|}}}|<span style="font-weight:normal">{{{manageryears25|–}}}</span>}}
+| data121	= {{{managerclubs25|}}}
+| label122 	= {{#if:{{{managerclubs26|}}}|<span style="font-weight:normal">{{{manageryears26|–}}}</span>}}
+| data122	= {{{managerclubs26|}}}
+| label123 	= {{#if:{{{managerclubs27|}}}|<span style="font-weight:normal">{{{manageryears27|–}}}</span>}}
+| data123	= {{{managerclubs27|}}}
+| label124 	= {{#if:{{{managerclubs28|}}}|<span style="font-weight:normal">{{{manageryears28|–}}}</span>}}
+| data124	= {{{managerclubs28|}}}
+| label125 	= {{#if:{{{managerclubs29|}}}|<span style="font-weight:normal">{{{manageryears29|–}}}</span>}}
+| data125	= {{{managerclubs29|}}}
+| label126	= {{#if:{{{managerclubs30|}}}|<span style="font-weight:normal">{{{manageryears30|–}}}</span>}}
+| data126 	= {{{managerclubs30|}}}
+| label127	= {{#if:{{{managerclubs31|}}}|<span style="font-weight:normal">{{{manageryears31|–}}}</span>}}
+| data127 	= {{{managerclubs31|}}}
+| label128	= {{#if:{{{managerclubs32|}}}|<span style="font-weight:normal">{{{manageryears32|–}}}</span>}}
+| data128 	= {{{managerclubs32|}}}
+| label129	= {{#if:{{{managerclubs33|}}}|<span style="font-weight:normal">{{{manageryears33|–}}}</span>}}
+| data129 	= {{{managerclubs33|}}}
+| label130	= {{#if:{{{managerclubs34|}}}|<span style="font-weight:normal">{{{manageryears34|–}}}</span>}}
+| data130 	= {{{managerclubs34|}}}
+| label131	= {{#if:{{{managerclubs35|}}}|<span style="font-weight:normal">{{{manageryears35|–}}}</span>}}
+| data131 	= {{{managerclubs35|}}}
+| label132	= {{#if:{{{managerclubs36|}}}|<span style="font-weight:normal">{{{manageryears36|–}}}</span>}}
+| data132 	= {{{managerclubs36|}}}
+| label133	= {{#if:{{{managerclubs37|}}}|<span style="font-weight:normal">{{{manageryears37|–}}}</span>}}
+| data133 	= {{{managerclubs37|}}}
+| label134	= {{#if:{{{managerclubs38|}}}|<span style="font-weight:normal">{{{manageryears38|–}}}</span>}}
+| data134 	= {{{managerclubs38|}}}
+| label135	= {{#if:{{{managerclubs39|}}}|<span style="font-weight:normal">{{{manageryears39|–}}}</span>}}
+| data135 	= {{{managerclubs39|}}}
+| label136	= {{#if:{{{managerclubs40|}}}|<span style="font-weight:normal">{{{manageryears40|–}}}</span>}}
+| data136 	= {{{managerclubs40|}}}
+| label137	= {{#if:{{{managerclubs41|}}}|<span style="font-weight:normal">{{{manageryears41|–}}}</span>}}
+| data137 	= {{{managerclubs41|}}}
+| label138	= {{#if:{{{managerclubs42|}}}|<span style="font-weight:normal">{{{manageryears42|–}}}</span>}}
+| data138 	= {{{managerclubs42|}}}
+| label139	= {{#if:{{{managerclubs43|}}}|<span style="font-weight:normal">{{{manageryears43|–}}}</span>}}
+| data139 	= {{{managerclubs43|}}}
+| label140	= {{#if:{{{managerclubs44|}}}|<span style="font-weight:normal">{{{manageryears44|–}}}</span>}}
+| data140 	= {{{managerclubs44|}}}
+| label141	= {{#if:{{{managerclubs45|}}}|<span style="font-weight:normal">{{{manageryears45|–}}}</span>}}
+| data141 	= {{{managerclubs45|}}}
+| label142	= {{#if:{{{managerclubs46|}}}|<span style="font-weight:normal">{{{manageryears46|–}}}</span>}}
+| data142 	= {{{managerclubs46|}}}
+| label143	= {{#if:{{{managerclubs47|}}}|<span style="font-weight:normal">{{{manageryears47|–}}}</span>}}
+| data143 	= {{{managerclubs47|}}}
+| label144	= {{#if:{{{managerclubs48|}}}|<span style="font-weight:normal">{{{manageryears48|–}}}</span>}}
+| data144 	= {{{managerclubs48|}}}
+| label145	= {{#if:{{{managerclubs49|}}}|<span style="font-weight:normal">{{{manageryears49|–}}}</span>}}
+| data145 	= {{{managerclubs49|}}}
+
+| header146 	= {{Infobox medal templates
+        |title  = {{{medaltemplates-title|Honours}}}
+        |medals = {{{medaltemplates|}}}
+        |expand = {{{medaltemplates-expand|{{{show-medals|}}}}}}
+}}
+
+| data147	= {{#if:{{{module|}}}|<nowiki />
+{{{!}} style="text-align:left; width:100%; margin:0; border-spacing:0; line-height: normal"
+{{!}}-
+{{!}}
+{{{module|}}}
+{{!}}}
+}}
+| belowstyle  = color:darkslategray; font-size:95%
+| below       = {{br separated entries
+ | 1 = {{#if:{{{clubs1|{{{clubs|}}}}}}|<nowiki>*</nowiki>Club domestic league appearances and goals{{#if:{{{pcupdate|{{{club-update|}}}}}}|, correct as of {{{pcupdate|{{{club-update}}}}}}}} }}
+ | 2 = {{#if:{{{ntupdate|{{{nationalteam-update|}}}}}}|‡ National team caps and goals, correct as of {{{ntupdate|{{{nationalteam-update}}}}}} }}
+ }}
+}}<includeonly><!--
+-->{{#ifeq:MATCH|{{#invoke:string|replace|{{{position|}}}|.*[Rr][Ee][Tt][Ii][Rr][Ee][Dd].*|MATCH|plain=false}}|[[Category:Pages using infobox football biography with position matching retired]]
+}}<!--
+-->{{#ifeq:{{Yesno|{{{embed|no}}}}}|yes||{{Wikidata image|1={{{image|}}}|2={{{nocat_wdimage|}}} }}}}<!--
+-->{{#invoke:Check for unknown parameters|check|unknown={{main other|[[Category:Pages using infobox football biography with unknown parameters|_VALUE_{{PAGENAME}}]]}}|preview=Page using [[Template:Infobox football biography]] with unknown parameter "_VALUE_"|ignoreblank=y| alt | birth_date | birth_name | birth_place | caption | club-update | clubnumber  | currentclub | death_date | death_place | embed | embed-header | full_name | fullname | header-color | height | height_cm | height_ft | height_in | height_m | image | image_size | medaltemplates | medaltemplates-expand | medaltemplates-title | module | name | nationalteam-update | nocat_wdimage | ntupdate | pcupdate | playername | position | show-medals | upright
+| regexp1 = youthyears[1-9] | regexp2 = youthclubs[1-9] | youthyears10 | youthclubs10
+| regexp3 = collegeyears[1-4] | regexp4 = college[1-4] | regexp5 = collegecaps[1-4] | regexp6 = collegegoals[1-4]
+| regexp7 = years[1-9] | regexp8 = clubs[1-9] | regexp9 = caps[1-9] | regexp10 = goals[1-9]
+| regexp11 = years[1-4][%d] | regexp12 = clubs[1-4][%d] | regexp13 = caps[1-4][%d] | regexp14 = goals[1-4][%d]
+| years50 | clubs50 | caps50 | goals50 
+| totalyears | totalcaps | totalgoals
+| regexp15 = nationalyears[1-9] | regexp16 = nationalteam[1-9] | regexp17 = nationalcaps[1-9] | regexp18 = nationalgoals[1-9]
+| regexp19 = manageryears[1-9] | regexp20 = managerclubs[1-9]
+| regexp21 = manageryears[1-4][%d] | regexp22 = managerclubs[1-4][%d]
+}}{{#if:{{{module|}}}|[[Category:Pages using infobox football biography with a module]]}}</includeonly><noinclude>
+{{documentation}}
+</noinclude>
