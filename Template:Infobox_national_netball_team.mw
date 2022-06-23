@@ -1,0 +1,96 @@
+{{ Infobox
+| bodyclass  = vcard
+| templatestyles = Infobox/mobileviewfix.css
+| title      = {{{country|<includeonly>{{PAGENAMEBASE}}</includeonly>}}}
+| titleclass = fn org
+| image     = {{#invoke:InfoboxImage|InfoboxImage|image={{{image|}}}|size={{{imagesize|}}}|alt={{{alt|}}}}} 
+| caption    = {{{caption|}}}
+
+| label1     = Nickname(s)
+| class1     = nickname
+| data1      = {{{nickname|}}}
+| label2     = Association
+| data2      = {{{association|}}}
+| label3     = Confederation
+| data3      = {{{confederation|}}}
+| label4     = Head coach
+| class4     = agent
+| data4      = {{{coach|}}}
+| label5     = Co-coaches
+| class5     = agent
+| data5      = {{{co-coaches|}}}
+| label6     = Asst coach
+| class6     = agent
+| data6      = {{{asst coach|}}}
+| label7     = Manager
+| class7     = agent
+| data7      = {{{manager|}}}
+| label8     = Captain
+| class8     = agent
+| data8      = {{{captain|}}}
+| label9     = Co-captains
+| class9     = agent
+| data9      = {{{co-captains|}}}
+| label10    = Vice-captain
+| class10    = agent
+| data10     = {{{vice-captain|}}}
+| label11    = Most [[cap (sport)|cap]]s
+| data11     = {{{caps|}}}
+| label12    = Top scorer
+| data12     = {{{top scorer|}}}
+| label13    = [[World Netball Rankings|World ranking]]
+| data13     = {{{rank|}}}
+
+| data14     = {{#if:{{{pattern_b1|}}}{{{pattern_sk1|}}}{{{body1|}}}{{{skirt1|}}} {{{pattern_b2|}}}{{{pattern_sk2|}}}{{{body2|}}}{{{skirt2|}}}|
+<tr><td style="padding:0; background:#FFFFFF; text-align:center; border: 1px solid #D3D3D3;" colspan="2">
+<table style="width:100%; text-align:center">
+<tr>
+{{#if:{{{pattern_b1|}}}{{{pattern_sk1|}}}{{{body1|}}}{{{skirt1|}}}|
+<td>{{Netball kit |
+  pattern_b  = {{#if:{{{pattern_b1|}}}|{{{pattern_b1}}}|netball}} |
+  pattern_sk = {{#if:{{{pattern_sk1|}}}|{{{pattern_sk1}}}|netball}} |
+  filetype   = {{#if:{{{filetype_b1|}}}|{{{filetype_b1}}}|svg}} |
+  body       = {{{body1|}}} |
+  skirt      = {{{skirt1|}}} |
+  title      = {{#if:{{{kitlabel1|}}}|{{{kitlabel1}}}|Team colours}} |
+}}</td>
+}}{{#if:{{{pattern_b2|}}}{{{pattern_sk2|}}}{{{body2|}}}{{{skirt2|}}}|
+<td>{{Netball kit |
+  pattern_b  = {{#if:{{{pattern_b2|}}}|{{{pattern_b2}}}|netball}} |
+  pattern_sk = {{#if:{{{pattern_sk2|}}}|{{{pattern_sk2}}}|netball}} |
+  filetype   = {{#if:{{{filetype_b2|}}}|{{{filetype_b2}}}|svg}} |
+  body       = {{{body2|}}} |
+  skirt      = {{{skirt2|}}} |
+  title      = {{#if:{{{kitlabel2|}}}|{{{kitlabel2}}}|Alternate}} |
+}}</td>
+}}</tr>
+</table></td></tr>}}
+
+| header15   = {{#if:{{{first game|}}}|First {{#if:{{{country|}}}|international|match}} }}
+| data16     = {{{first game|}}}
+
+| header17   = {{#if:{{{largest win|}}}|Largest win}}
+| data18     = {{{largest win|}}}
+
+| header19   = {{#if:{{{largest loss|}}}|Largest defeat}}
+| data20     = {{{largest loss|}}}
+
+| header21   = {{#if:{{{WNC apps|}}}{{{WNC recent|}}}{{{WNC best|}}}{{{WNC titles|}}}|[[Netball World Cup]]}}
+| label22    = Appearances
+| data22     = {{{WNC apps|}}} {{#if:{{{WNC debut|}}}|(''Debuted in [[{{{WNC debut}}} World Netball Championships|{{{WNC debut}}}]]'')}}
+| label23    = [[{{{WNC prev|2015}}} World Netball Championships|{{{WNC prev|2015}}}]] placing
+| data23     = {{{WNC recent|}}}
+| label24    = Best result
+| data24     = {{{WNC best|}}}
+| label25    = Titles won
+| data25     = {{{WNC titles|}}}
+
+| header26   = {{#if:{{{CWG apps|}}}{{{CWG recent|}}}{{{CWG best|}}}|[[Netball at the Commonwealth Games|Commonwealth Games]]}}
+| label27    = Appearances
+| data27     = {{{CWG apps|}}} {{#if:{{{CWG debut|}}}|(''Debuted in [[Netball at the {{{CWG debut}}} Commonwealth Games|{{{CWG debut}}}]]'')}}
+| label28    = [[Netball at the {{{CWG prev|2018}}} Commonwealth Games|{{{CWG prev|2018}}}]] placing
+| data28     = {{{CWG recent|}}}
+| label29    = Best result
+| data29     = {{{CWG best|}}}
+
+}}<noinclude>{{documentation}}</noinclude>
