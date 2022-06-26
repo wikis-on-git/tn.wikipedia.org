@@ -1,5 +1,7 @@
 __NOEDITSECTION__
 <!------------------------------------ TOP PART ------------------------------------------->
+<templatestyles src="Main Page/minerva.css" />
+{| id="main page mp-mp" style="width:100%;margin-top:5px;"
 {|style="margin:0px 0px 0px 0px; background:none;"
 |class="MainPageBG" style="width:10%; border:3px solid #ffe2e2; background:white; vertical-align:top; color:#000;"|
 <div style="float: left; width: 0em; height: 0em; margin: -0.5em 0em 0em -2.5em; overflow: visiable;">[[File:Wikipedia-logo-v2-200px-transparent.png|200px|link=]]</div>
@@ -8,7 +10,7 @@ __NOEDITSECTION__
 <div class="center"><small>{{CURRENTMONTHNAME}} {{CURRENTDAY}}, {{CURRENTYEAR}} wikipedia ya setswana</small></div>
 [[Category:Template]] 
 ----
-Wikipedia ya Setswana e nale ditsebe di le [[Special:statistics|{{NUMBEROFARTICLES}}]] le wena o kgona go kwala, go simolola se o batlang go se kwala, kwala setlhogo sa se o batlang go kwala ka sone ka fatlase o bo o tobetsa '''Bula tsebe'''.
+Wikipedia ya Setswana e nale ditsebe di le [[Special:statistics|{{NUMBEROFARTICLES}}]], le wena o kgona go kwala, go simolola se o batlang go se kwala, kwala setlhogo sa se o batlang go kwala ka sone ka fatlase o bo o tobetsa '''Bula tsebe'''.
 |- 
 |Colspan="2" style="text-align:left;"|
 <div style="text-align: center; font-size: 100%;">
