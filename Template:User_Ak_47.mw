@@ -1,1 +1,12 @@
-Template
+ {{userbox
+| border-c = none
+| id       = [[File:AK-47 type II noBG.png]]
+| id-c     = white
+| info     = This love [[guns]] and he see them as toys
+| info-c   = pink
+| info-fc  = {{{info-fc|black}}} 
+| info-s   = {{{info-s|8}}}
+| info-a   = center
+}}<noinclude>
+[[Category:Android user templates| ]]
+</noinclude>
