@@ -5327,3 +5327,44 @@ On behalf of the UCoC project team <br /><section end="announcement-content" />
 == Administrator request ==
 
 Hello i'm an active user on the [[Wikipedia|Setswana Wikipedia]] i would like to be an Admin on this Wiki, this rights will help as I'm improving this wiki. (Thanks) [[User:Rebel Agent|Rebel Agent]] ([[User talk:Rebel Agent|talk]]) 13:06, 23 Seetebosigo 2022 (UTC)
+
+== Enabling Content and Section translation tool in Tswana Wikipedia ==
+
+{{Int:Hello}} Friends!
+
+Apologies as this message is not in your native language, {{Int:Please-translate}}.
+
+The WMF Language team is pleased to let you know that we will like to enable the Section and Content translation tool in Tswana Wikipedia. For this, our team will love you to read about the tool and test the new   [https://design.wikimedia.org/strategy/section-translation.html Section Translation tool] so you can:
+
+* Give us your feedback
+* Ask us questions
+* Tell us how to improve it
+
+Below is background information about the tools, why we have chosen to enable them in your Wikipedia and how you can test the Section translation tool.
+
+'''Background information'''
+
+[[mw:Content_translation|Content Translation]] has been a successful tool for editors to create content in their language. More than one million articles have been created across all languages since the tool was released in 2015. However, the tool is not out of beta in Tswana Wikipedia, limiting the discoverability of the tool and its use and blocking the enablement of the Section translation in your Wikipedia
+
+[[mw:Content_translation/Section_translation|Section Translation]] extends the capabilities of Content Translation to support mobile devices. On mobile, the tool will:
+
+* Guide you to translate one section at a time in order to expand existing articles or create new ones
+* Make it easy to transfer knowledge across languages anytime from your mobile device
+
+We plan to enable the tools on Tswana Wikipedia in the coming week if there are no objections from your community. After it is enabled, we’ll monitor the content created with the tools and process all the feedback. In any case, feel free to raise any concerns or questions you may already have as a reply to this message or on [[mw:Talk:Content_translation/Section_translation|the project talk page]]
+
+'''Try the Section translation tool'''
+
+Before the enablement, you can try the current implementation of the tool in [https://test.m.wikipedia.org/w/index.php?title=Special:ContentTranslation&from=en&to=fa&sx=true#/ our testing instance]. Once it is enabled on Tswana Wikipedia, you’ll have access to [[:tr:Special:ContentTranslation|https://tn.wikipedia.org/wiki/Special:ContentTranslation]] with your mobile device. You can select an article to translate, and machine translation will be provided as a starting point for editors to improve.
+
+'''Provide feedback'''
+
+Please provide feedback about Section translation on [[mw:Talk:Content_translation/Section_translation|the project talk page]]. We want to  hear about your impressions on
+
+* The section translation tool
+* What do you think about our plans to enable it
+* Your ideas for improving the tool
+
+Thanks and we look forward to your feedback and questions.
+
+[[User:UOzurumba (WMF)|UOzurumba (WMF)]] ([[User talk:UOzurumba (WMF)|talk]]) 16:34, 29 Seetebosigo 2022 (UTC) On behalf of the WMF Language team.
