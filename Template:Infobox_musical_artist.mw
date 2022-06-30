@@ -37,7 +37,7 @@
 | data8      = {{{Genre|{{{genre|}}}}}}
 
 | class9     = maemo
-| label9     = {{Nowrap|{{#if:{{{Occupations|{{{occupations|}}}}}}|Occupations|Occupation(s)}}}}
+| label9     = {{Nowrap|{{#if:{{{Ditiro|{{{Ditiro|}}}}}}|Ditiro|Ditiro}}}}
 | data9      = {{#if:{{{Occupations|{{{occupations|}}}}}}|{{{Occupations|{{{occupations|}}}}}}|{{{Occupation|{{{occupation|}}}}}}}}
 
 | class10     = note
