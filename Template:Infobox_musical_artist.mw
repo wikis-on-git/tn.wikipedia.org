@@ -21,22 +21,22 @@
 | data3       = {{{Birth_name|{{{birth_name|}}}}}}
 
 | class4      = nickname
-| label4      = {{Nowrap|Also known as}}
+| label4      = {{Nowrap|O itsegi gape ele}}
 | data4       = {{{Alias|{{{alias|}}}}}}
 
-| label5      = Born
+| label5      = Tsalo
 | data5       = {{br separated entries|{{{birth_date|}}}|{{{birth_place|}}}}}
 
-| label6      = Origin
+| label6      = Letso
 | data6       = {{{Origin|{{{origin|}}}}}}
 
-| label7      = Died
+| label7      = Leso
 | data7       = {{br separated entries|{{{death_date|}}}|{{{death_place|}}}}}
 
-| label8     = Genres
+| label8     = Mefota
 | data8      = {{{Genre|{{{genre|}}}}}}
 
-| class9     = role
+| class9     = maemo
 | label9     = {{Nowrap|{{#if:{{{Occupations|{{{occupations|}}}}}}|Occupations|Occupation(s)}}}}
 | data9      = {{#if:{{{Occupations|{{{occupations|}}}}}}|{{{Occupations|{{{occupations|}}}}}}|{{{Occupation|{{{occupation|}}}}}}}}
 
@@ -44,7 +44,7 @@
 | label10     = Instruments
 | data10      = {{{Instrument|{{{instrument|{{{instruments|}}}}}}}}}
 
-| label11     = {{Nowrap|Years active}}
+| label11     = {{Nowrap|Dingwaga tsa a le mo boopeding}}
 | data11      = {{{Years_active|{{{years_active|{{{yearsactive|}}}}}}}}} 
 
 | label12     = Labels
