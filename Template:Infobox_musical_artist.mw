@@ -17,7 +17,7 @@
 | header1     = {{#if:{{{Img|{{{image|}}}}}}|Background information}}
 
 | class3      = nickname
-| label3      = {{Nowrap|Birth name}}
+| label3      = {{Nowrap|Leina la Matsalo}}
 | data3       = {{{Birth_name|{{{birth_name|}}}}}}
 
 | class4      = nickname
